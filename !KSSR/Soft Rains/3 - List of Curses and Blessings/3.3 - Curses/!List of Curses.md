@@ -1,0 +1,6 @@
+[[Blind]]
+[[Deaf]]
+[[Dull]]
+[[Limb Paralysis]]
+[[Missing Limb]]
+[[Mute]]

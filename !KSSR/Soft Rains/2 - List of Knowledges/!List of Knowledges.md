@@ -1,0 +1,32 @@
+## Weapon Knowledges
+[[Arbalist]]
+[[Axeman]]
+[[Bowman]]
+[[Flagellate]]
+[[Guisamier]]
+[[Knife-Fighter]]
+[[Mace-Bearer]]
+[[Musketeer]]
+[[Peasant Combatant]]
+[[Pistoleer]]
+[[Scatter-Shooter]]
+[[Shield Bashing]]
+[[Slinger]]
+[[Stave-Bearer]]
+[[Street Combatant]]
+[[Swordsman]]
+[[Thrower]]
+
+## Defensive Knowledges
+
+## Resource Gathering Knowledges
+[[Agriculture]]
+[[Animal Husbandry]]
+[[Fishing]]
+[[Foraging]]
+[[Hunting]]
+[[Lumbering]]
+[[Masonry]]
+[[Metalworking]]
+[[Mining]]
+[[Woodworking]]

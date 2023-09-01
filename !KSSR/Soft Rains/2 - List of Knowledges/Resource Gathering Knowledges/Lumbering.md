@@ -1,0 +1,3 @@
+Lumberjacks and foresters are the very basis of infrastructure, from the logs that build cabins in the frontiers to the sheets of paper that keep much needed information in the civilized world, their work can be seen. With this Knowledge, you roll one extra dice for every Expertise level for actions related to wood extracting activities. The effect of the extra successes depends on Worldshaper discretion.
+
+__Type:__ Expertise

@@ -1,0 +1,2 @@
+Time to talk legality, copyright and licencing. This is a touchy topic, especially considering upheavals the TTRPG community has felt with certain core systems and their licenses at the time of writing this. I have always wanted to make this system open source, but it is a chaotic process with a lot of conflicting legislation and dry legal chitchat.
+After putting a lot of thought, it has been decided that the core rulebooks of the system, Knapped Stone and Soft Rains, are going to be distributed under Creative Commons Attribution 4.0 International (CC BY 4.0)

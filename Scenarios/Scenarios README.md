@@ -1,0 +1,1 @@
+These are a bunch of scenario sketches I have, some are official scenarios and others are side projects for when I finish this system. If you want to claim any of the side projects, DM me.
