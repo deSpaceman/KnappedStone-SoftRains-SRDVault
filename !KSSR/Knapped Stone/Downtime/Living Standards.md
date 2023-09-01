@@ -18,7 +18,7 @@ Characters that live in Squalor conditions are only those that were unable to fi
 > 
 > At the end of each Downtime Month, roll a D6 for every level of civilization you are in (a Frontier would have you rolling 1D6, while a Center would have you rolling 5D6), every success is a Valuable you have gained via begging, petty thievery, among other means. You may choose to spend any amount of those Valuables to avoid the same amount of Exposure Damage you would take;
 > 
-> Every Downtime Trimester (3 Months), roll Perception, if you do not acquire a success, you misplaced, lost, or were a victim of a theif that took an item of the Worldshaper's choice;
+> Every Downtime Trimester (3 Months), roll Focus, if you do not acquire a success, you misplaced, lost, or were a victim of a theif that took an item of the Worldshaper's choice;
 > 
 > The time needed to learn a new Knowledge or to Gain a new Attribute Point is raised by a week, as you need to spend energy staving off hunger and having restless nights trying to survive your current situation.
 > 
@@ -31,7 +31,7 @@ Characters living in Poor conditions are under the following effects:
 >
 > At the end of each Downtime Month, roll a D6 for every level of civilization you are in (a Frontier would have you rolling 1D6, while a Center would have you rolling 5D6), every success is a Valuable you have gained from odd jobs, freelancing or as extra from your work;
 >
-> Every Downtime Semester (6 Months), roll Perception, if you do not acquire a success, you misplaced, lost, or were a victim of a theif that took an item of the Worldshaper's choice.
+> Every Downtime Semester (6 Months), roll Focus, if you do not acquire a success, you misplaced, lost, or were a victim of a theif that took an item of the Worldshaper's choice.
 > 
 **Note: It is possible for a character to die of Exposure Damage while living in Poor conditions.**
 
@@ -40,7 +40,7 @@ You can only live in Modest Living Standards if you either have a job, a fortune
 Characters living in Modest conditions are under the following effects:
 > At the end of each Downtime Month, roll a 2D6 for every level of civilization you are in (a Frontier would have you rolling 2D6, while a Center would have you rolling 10D6), every success is a Valuable you have gained from odd jobs, freelancing or as extra from your work;
 >
-> Every Downtime Year, roll Perception, if you do not acquire a success, you misplaced, lost, or were a victim of a theif that took an item of the Worldshaper's choice.
+> Every Downtime Year, roll Focus, if you do not acquire a success, you misplaced, lost, or were a victim of a theif that took an item of the Worldshaper's choice.
 
 Wealthy - You live in comfort, meddling with the lowest strata of the high society, which, to be honest, is more then most people can afford. Your living standards are beyond any artisan's and you access to many different commodities others wouldn't even dream of. Important merchants, highly skilled workforce and large business owners, like factory owners, live like this.
 You can only live in Wealthy Living Standards if you have a job, or a fortune.
@@ -87,9 +87,9 @@ Independent of the Condition of the biome in question, a character living in the
 > 
 > You may spend 2 extra hours to find extra materials to deal with the Cold or Hot weather and, if you do so, do not take Exposure Damage. If you are exposed to Frigid or Melting weather, spend 4 extra hours;
 > 
-> You may include a training routine for Body, Mind, or Perception in your survival routines. You may only choose to do so if the next level needs the same or less Time per Day as your survival routines and if you are not training the same attribute already;
+> You may include a training routine for Body, Mind, or Focus in your survival routines. You may only choose to do so if the next level needs the same or less Time per Day as your survival routines and if you are not training the same attribute already;
 > 
-> Every Downtime Semester (6 Months), roll Perception, if you do not acquire a success, you misplaced, or lost an item of the Worldshaper's choice.
+> Every Downtime Semester (6 Months), roll Focus, if you do not acquire a success, you misplaced, or lost an item of the Worldshaper's choice.
 > 
 **Note: It is possible for a character to die of Exposure Damage while Downtiming in the Wilderness.**
 

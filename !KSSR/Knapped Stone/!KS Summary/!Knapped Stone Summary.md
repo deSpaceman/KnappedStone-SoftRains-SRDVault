@@ -64,10 +64,10 @@
 		* [[3.3 - Soul Phylactery]]
 		* Places of Power
 		* [[3.5 - Divine Spellcasting]]
-		* [[3.6 - Holy Symbols]]
-		* [[3.7 - What are Spells]]
-		* [[3.8 - Creating Spells]]
-		* [[3.9 - Example Spells]]
+		* [[3.6 - Holy Symbols]] TODO
+		* [[3.7 - What are Spells]] TODO
+		* [[3.8 - Creating Spells]] TODO
+		* [[3.9 - Example Spells]] TODO
 		* NPC Magic
 		* [[3.11 - Other Spellcasting Methods]]
 	* Crafting
@@ -105,18 +105,18 @@
 	* Fighting Basics
 		* Facing the Music
 		* Rolling for Initiative
-		* [[Action Economy]]
-		* [[Fighting and Defending]]
+		* [[Action Economy]] TODO
+		* [[Fighting and Defending]] TODO
 		* Range in Combat
-		* [[Movement]]
-		* [[Mishaps and Criticals in Combat]]
-		* [[Time in Battle]]
-		* [[Cover]]
-		* [[Flanking]]
+		* [[Movement]] TODO
+		* [[Mishaps and Criticals in Combat]] TODO
+		* [[Time in Battle]] TODO
+		* [[Cover]] TODO
+		* [[Flanking]] TODO
 	* Vehicle Battle
-		* [[Action Economy in Vehicle Battles]]
-		* [[Movement and Vehicles]]
-		* [[Terrain in Vehicle Battles]]
+		* [[Action Economy in Vehicle Battles]] TODO
+		* [[Movement and Vehicles]] TODO
+		* [[Terrain in Vehicle Battles]] TODO
 *  Cultures and Settlements
 	* Headquarters
 		* What is Headquarters
@@ -142,30 +142,33 @@
 	* [[Living Standards]]
 * The World
 	* Laws of Nature
-		* [[1.1 - Distances]]
-		* [[1.2 - Time]]
-		* [[1.3 - Seasons]]
+		* [[1.1 - Distances]] TODO
+		* [[1.2 - Time]] TODO
+		* [[1.3 - Seasons]] TODO
 	* Dangers
 		* For Sapients
-			* [[2.1.1 - Hunger]]
-			* [[2.1.2 - Exhaustion]]
-			* [[2.1.3 - Injuries]]
-			* [[2.1.4 - The Elements]]
+			* [[2.1.1 - Hunger]] TODO
+			* [[2.1.2 - Exhaustion]] TODO
+			* [[2.1.3 - Injuries]] TODO
+			* [[2.1.4 - The Elements]] TODO
 		* For Settlements
-			* [[2.2.1 - Natural Disasters]]
-			* [[2.2.2 - Raids]]
+			* [[2.2.1 - Natural Disasters]] TODO
+			* [[2.2.2 - Raids]] TODO
 		* For Headquarters
 			* Weathering and Disasters
 			* Enemy Search Parties
+		* Death and Disaster
+			* Hitting 0 HP
+			* Death and its Consequences
 	* Creatures
-		* [[3.1 - Creating Creatures]]
+		* [[3.1 - Creating Creatures]] TODO
 		* [[3.2 - Base Creatures]]
-		* [[3.3 - Example Creatures]]
-		* [[3.4 - Quick Reference Beastiary]]
+		* [[3.3 - Example Creatures]] TODO
+		* [[3.4 - Quick Reference Beastiary]] TODO
 	* Conditions
-		* [[4.1 - What are Conditions]]
-		* [[4.2 - Creating Conditions]]
-		* [[4.3 - Example Conditions]]
+		* [[4.1 - What are Conditions]] TODO
+		* [[4.2 - Creating Conditions]] TODO
+		* [[4.3 - Example Conditions]] TODO
 * Optional Rules
 	* Sanity
 		* [[Sanity Attribute]]
