@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Flanking.md",
+                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Fighting and Defending.md",
                 "mode": "preview",
                 "source": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Flanking.md",
+                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Fighting and Defending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Flanking.md",
+                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Fighting and Defending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Flanking.md"
+                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Fighting and Defending.md"
               }
             }
           }
@@ -303,11 +303,11 @@
   },
   "active": "11ed0df7dcccb74f",
   "lastOpenFiles": [
+    "!KSSR/Knapped Stone/Combat/Fighting Basics/Flanking.md",
     "!KSSR/Knapped Stone/Combat/Fighting Basics/Time in Battle.md",
     "!KSSR/Knapped Stone/Combat/Fighting Basics/Rolling for Initiative.md",
     "!KSSR/Knapped Stone/Combat/Fighting Basics/Movement.md",
     "!KSSR/Knapped Stone/Combat/Fighting Basics/Mishaps and Criticals in Combat.md",
-    "!KSSR/Knapped Stone/Combat/Fighting Basics/Flanking.md",
     "!KSSR/Knapped Stone/Combat/Fighting Basics/Fighting and Defending.md",
     "!KSSR/Knapped Stone/Combat/Fighting Basics/Cover.md",
     "!KSSR/Knapped Stone/Combat/Fighting Basics/Action Economy.md",
