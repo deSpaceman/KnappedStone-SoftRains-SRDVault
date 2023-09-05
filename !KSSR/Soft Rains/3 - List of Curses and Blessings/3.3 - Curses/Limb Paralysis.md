@@ -8,6 +8,6 @@ Limb Paralysis is a harsh, unforgiving condition, robbing a person of much neede
 
 People tend to treat those affected with paralysis as condescendingly as it gets, this mostly thanks to the reliance on aids, be them wheelchairs or exoskeletons, to properly move. On the topic of aids, the effectiveness of a given aid on neutralizing the effects of this curse depends on their sophistication, and some of them may have problems of their own.
 
-__Effect Value:__ Major
+__Effect Value:__ Extreme
 
 ___

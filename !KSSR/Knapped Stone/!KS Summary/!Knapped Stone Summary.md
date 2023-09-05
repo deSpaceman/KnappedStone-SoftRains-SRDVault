@@ -1,50 +1,51 @@
 * [[A Foreword]]
 * [[Acknowledgements and Dedication]]
 * [[SRD and Liscencing]]
-* Introduction
-	* The Basics
+* 1- Introduction
+	* 1.1 - The Basics
 		* [[1.1.1 - What is a Tabletop RPG]]
 		* [[1.1.2 - The Objective]]
 		* [[1.1.3 - Short Glossary]]
-	* The Table
+	* 1.2 - The Table
 		* [[1.2.1 - Where should I play this]]
 		* [[1.2.2 - Sessions and Campaigns]]
 		* [[1.2.3 - The Worldshaper]]
 		* [[1.2.4 - The Players]]
-	* Rolling the Die
+	* 1.3 - Rolling the Die
 		* [[1.3.1 - 6 Sided Dice]]
 		* [[1.3.2 - Mishaps]]
 		* [[1.3.3 - Criticals]]
-* Character Creation
+* 2 - Character Creation
 	* [[2.1 - Survivors and Legends]]
 	* [[2.2 - The Process]]
-	* Choosing a Sapient
+	* 2.3 - Choosing a Sapient
 		* [[2.3.1 - What are Sapients]]
 		* [[2.3.2 - Creating Sapient Pages]]
 		* [[2.3.3 - Example Sapient Pages]]
-	* Manipulate Attributes
+	* 2.4 - Manipulate Attributes
 		* [[2.4.1 - Attributes]]
 		* [[2.4.2 - Attribute Shifting and Trading]]
 		* [[2.4.3 - Gaining Attributes during the Game]]
-	* Choose a Trade
+	* 2.5 - Choose a Trade
 		* [[2.5.1 - What are Trades]]
 		* [[2.5.2 - Creating Trades]]
 		* [[2.5.3 - Example Trades]]
-	* Choose an Identity
+	* 2.6 - Choose an Identity
 		* [[2.6.1 - What are Identities]]
 		* [[2.6.2 - Creating Identities]]
 		* [[2.6.3 - Example Identities]]
-	* Choose 2 Knowledges
+	* 2.7 - Choose 2 Knowledges
 		* [[2.7.1 - What are Knowledges]]
 		* [[2.7.2 - Knowledge Trading]]
 		* [[2.7.3 - Gaining Knowledge during the Game]]
 		* [[2.7.4 - Creating Knowledges]]
 		* [[2.7.5 - Example Knowledges]]
-	* Choose a Curse and a Blessing
+	* 2.8 - Choose a Curse and a Blessing
 		* [[2.8.1 - Choosing Curses and Blessings]]
 		* [[2.8.2 - Creating Curses and Blessings]]
 		* [[2.8.3 - Example Curses and Blessings]]
 * Equipment and Objects
+	* Fill the Backpack
 	* Items
 		* [[1.1 - Creating Items]] TODO
 		* [[1.2 - Example Items]] TODO
@@ -62,7 +63,7 @@
 		* How Rare is Magic
 		* [[3.2 - Arcane Spellcasting]]
 		* [[3.3 - Soul Phylactery]]
-		* Places of Power
+		* [[3.4 - Places of Power]] TODO
 		* [[3.5 - Divine Spellcasting]]
 		* [[3.6 - Holy Symbols]] TODO
 		* [[3.7 - What are Spells]] TODO
@@ -94,30 +95,36 @@
 		* Spellstones
 		* Soul Shards
 * Vehicles
-	* Vehicle Attributes
-	* Vehicle Types
-	* Vehicle Components
-	* Creating a Vehicle
-	* Example a Vehicle
-	* Creating Components
-	* Example Components
+	* Artificial Mobility
+	* Defining Capabilities
+		* Vehicle Attributes
+		* Vehicle Types
+		* Vehicle Components
+		* Malfunctions
+	* Rolling Wheels
+		* Creating a Vehicle
+		* Example a Vehicle
+		* Creating Components
+		* Example Components
 * Combat
+	* [[Facing the Music]] TODO
 	* Fighting Basics
-		* Facing the Music
-		* Rolling for Initiative
+		* [[Rolling for Initiative]] TODO
 		* [[Action Economy]] TODO
 		* [[Fighting and Defending]] TODO
+		* Maneuvers (Grapple, Pushing, etc...)
 		* Range in Combat
 		* [[Movement]] TODO
 		* [[Mishaps and Criticals in Combat]] TODO
 		* [[Time in Battle]] TODO
-		* [[Cover]] TODO
+		* [[Cover]]
 		* [[Flanking]] TODO
 	* Vehicle Battle
 		* [[Action Economy in Vehicle Battles]] TODO
 		* [[Movement and Vehicles]] TODO
 		* [[Terrain in Vehicle Battles]] TODO
 *  Cultures and Settlements
+	* Where the People is
 	* Headquarters
 		* What is Headquarters
 		* Creating a Headquarters
@@ -136,11 +143,14 @@
 		* [[3.5 - Example Settlement]] TODO
 		* [[3.6 - Settlement Building]] TODO
 * Downtime
+	* Peace Before the Storm
 	* Why is that Important?
-	* When should it Happen?
+	* Rests
+	* Actual Downtime
 	* Allocating Time
 	* [[Living Standards]]
 * The World
+	* Wide and Venerable
 	* Laws of Nature
 		* [[1.1 - Distances]] TODO
 		* [[1.2 - Time]] TODO
@@ -155,11 +165,12 @@
 			* [[2.2.1 - Natural Disasters]] TODO
 			* [[2.2.2 - Raids]] TODO
 		* For Headquarters
-			* Weathering and Disasters
+			* Weather and Disasters
 			* Enemy Search Parties
 		* Death and Disaster
-			* Hitting 0 HP
+			* [[2.4.1 - Hitting 0 HP]] TODO
 			* Death and its Consequences
+			* Retiring Adventurers
 	* Creatures
 		* [[3.1 - Creating Creatures]] TODO
 		* [[3.2 - Base Creatures]]
@@ -170,13 +181,10 @@
 		* [[4.2 - Creating Conditions]] TODO
 		* [[4.3 - Example Conditions]] TODO
 * Optional Rules
+	* House rules
 	* Sanity
 		* [[Sanity Attribute]]
 		* [[Madnesses]]
-	* Prosthetics
-		* Making Prosthetics
-		* Installing Prosthetics
-		* Tolerance
 	* Self-Care Rewards
 		* Why is this important
 		* Self-Care and You

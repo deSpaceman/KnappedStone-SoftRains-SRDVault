@@ -6,6 +6,6 @@ Being Dull is an unforgiving condition, a curse that limits an adventurer's arse
 
 An individual affected with Dull has chalk white stains around their body and this is a condition that is already present at birth. People tend to treat Dulled with the same indifference they would treat any stranger, with one exception: societies that rely too much on magic may treat a Dulled with the same condescending gaze that a society reliant on vision might treat a blind person.
 
-__Effect Value:__ Major
+__Effect Value:__ Mild
 
 ___

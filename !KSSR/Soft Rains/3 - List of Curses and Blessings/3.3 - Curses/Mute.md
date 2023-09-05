@@ -8,6 +8,6 @@ It is a condition that makes communication difficult between the mute individual
 
 People tend to treat the mute as either children, unable to communicate, or mild annoyances that don't communicate because they never bothered to learn how to speak. Fortunately, every rule has their exceptions, and those afflicted with muteness can always find people who treat them on equal footing.
 
-__Effect Value:__ Minor
+__Effect Value:__ Mild
 
 ___
