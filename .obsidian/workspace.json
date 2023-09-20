@@ -36,102 +36,6 @@
             }
           },
           {
-            "id": "11ed0df7dcccb74f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Fighting and Defending.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e17bd0d19aa37d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!KSSR/Soft Rains/4 - Keywords/4.2 - Item Keywords/4.2.1 - Item Keywords.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e7ec714cb12dcb62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!KSSR/Soft Rains/4 - Keywords/4.1 - Creature Keywords/4.1.1 - Creature Keywords.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "17b273b878d00af6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scenarios/Minecraft Scenario/Creature Keywords.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bced1c2878c98915",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!KSSR/Knapped Stone/2 - Character Creation/2.4 - Manipulate Attributes/2.4.3 - Gaining Attributes during the Game.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "58b9816b7c8496d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!KSSR/Knapped Stone/Equipment and Objects/3 - Spellcasting/3.4 - Places of Power.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3e0a10e40e91f372",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Action Economy.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3a12ad44338a6397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!KSSR/Knapped Stone/2 - Character Creation/2.8 - Choose a Curse and a Blessing/2.8.2 - Creating Curses and Blessings.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "bc78e6f924a30edd",
             "type": "leaf",
             "pinned": true,
@@ -142,31 +46,43 @@
             }
           },
           {
-            "id": "679eb5ed4c8e3d54",
+            "id": "244838f93995e339",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Action Economy.md",
+                "file": "!KSSR/Soft Rains/2 - List of Knowledges/Defensive Knowledges/Dodge Savant.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "920d4cfe2a4da37e",
+            "id": "a64489c4a96712fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!KSSR/Knapped Stone/Combat/Facing the Music.md",
+                "file": "!KSSR/Soft Rains/2 - List of Knowledges/!List of Knowledges.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5da8bbd50053ad73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!KSSR/Knapped Stone/2 - Character Creation/2.7 - Choose 2 Knowledges/2.7.5 - Example Knowledges.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Fighting and Defending.md",
+                "file": "!KSSR/Soft Rains/2 - List of Knowledges/!List of Knowledges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Fighting and Defending.md",
+                "file": "!KSSR/Soft Rains/2 - List of Knowledges/!List of Knowledges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +196,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!KSSR/Knapped Stone/Combat/Fighting Basics/Fighting and Defending.md"
+                "file": "!KSSR/Soft Rains/2 - List of Knowledges/!List of Knowledges.md"
+              }
+            }
+          },
+          {
+            "id": "2f7147153e9f6aa9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -301,44 +227,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11ed0df7dcccb74f",
+  "active": "a64489c4a96712fb",
   "lastOpenFiles": [
-    "!KSSR/Knapped Stone/Combat/Fighting Basics/Flanking.md",
-    "!KSSR/Knapped Stone/Combat/Fighting Basics/Time in Battle.md",
-    "!KSSR/Knapped Stone/Combat/Fighting Basics/Rolling for Initiative.md",
-    "!KSSR/Knapped Stone/Combat/Fighting Basics/Movement.md",
-    "!KSSR/Knapped Stone/Combat/Fighting Basics/Mishaps and Criticals in Combat.md",
-    "!KSSR/Knapped Stone/Combat/Fighting Basics/Fighting and Defending.md",
-    "!KSSR/Knapped Stone/Combat/Fighting Basics/Cover.md",
-    "!KSSR/Knapped Stone/Combat/Fighting Basics/Action Economy.md",
-    "!KSSR/Knapped Stone/2 - Character Creation/2.2 - The Process.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/Defensive Knowledges/Dodge Savant.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/Defensive Knowledges/Armor Mastery.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/!List of Knowledges.md",
     "!KSSR/Knapped Stone/2 - Character Creation/2.7 - Choose 2 Knowledges/2.7.5 - Example Knowledges.md",
-    "!KSSR/Knapped Stone/2 - Character Creation/2.5 - Choose a Trade/2.5.3 - Example Trades.md",
-    "!KSSR/Knapped Stone/2 - Character Creation/2.3 - Choose a Sapient/2.3.3 - Example Sapient Pages.md",
-    "!KSSR/Knapped Stone/1 - Introduction/1.3 - Rolling the Die/1.3.1 - 6 Sided Dice.md",
-    "!KSSR/Knapped Stone/1 - Introduction/1.1 - The Basics/1.1.1 - What is a Tabletop RPG.md",
-    "!KSSR/Knapped Stone/!KS Summary/!Knapped Stone Summary.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Acrobatics.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/Specific Knowledges/Language (Name).md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/Crafting Knowledges/Woodworking.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/Defensive Knowledges",
+    "!KSSR/Soft Rains/2 - List of Knowledges/Specific Knowledges/(Type) Survival.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Religion.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Sleight of Hand.md",
+    "!KSSR/Knapped Stone/2 - Character Creation/2.7 - Choose 2 Knowledges/2.7.4 - Creating Knowledges.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/Specific Knowledges",
     "!KSSR/Soft Rains/!SR Summary/Soft Rains Summary.md",
-    "!KSSR/Knapped Stone/Combat/Vehicle Battle/Movement and Vehicles.md",
-    "!KSSR/Knapped Stone/Cultures and Settlements/2 - Building/2.1 - How Building works.md",
-    "!KSSR/Knapped Stone/Cultures and Settlements/2 - Building/2.2 - Construction Materials.md",
-    "!KSSR/Knapped Stone/Equipment and Objects/3 - Spellcasting/3.4 - Places of Power.md",
-    "!KSSR/Knapped Stone/2 - Character Creation/2.1 - Survivors and Legends.md",
-    "!KSSR/Knapped Stone/2 - Character Creation/2.7 - Choose 2 Knowledges/2.7.2 - Knowledge Trading.md",
-    "!KSSR/Knapped Stone/2 - Character Creation/2.3 - Choose a Sapient/2.3.1 - What are Sapients.md",
-    "!KSSR/Knapped Stone/The World/2 - Dangers/2.4 - Death and Disaster/2.4.1 - Hitting 0 HP.md",
-    "!KSSR/Soft Rains/4 - Keywords/4.2 - Item Keywords/4.2.1 - Item Keywords.md",
-    "!KSSR/Soft Rains/4 - Keywords/4.1 - Creature Keywords/4.1.1 - Creature Keywords.md",
-    "!KSSR/Knapped Stone/The World/2 - Dangers/2.4 - Death and Disaster",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Technology.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Athletics.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Deception.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Stealth.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Insight.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Astronomy.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Persuasion.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Animal Handling.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Literature.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Intimidation.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Geology.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Geography.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Cryptozoology.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Nature.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges",
+    "!KSSR/Soft Rains/2 - List of Knowledges/Crafting Knowledges",
+    "!KSSR/Knapped Stone/Optional Rules/Roll Invalidation Mishap",
+    "!KSSR/Knapped Stone/Combat/Using the Battlefield",
+    "!KSSR/Knapped Stone/Combat/Death and Disaster",
     "Scenarios/Spearhead License",
     "!KSSR/Soft Rains/2 - List of Knowledges/Resource Gathering Knowledges",
     "!KSSR/Soft Rains/2 - List of Knowledges/Weapon Knowledges",
-    "!KSSR/Soft Rains/5 - Examples/5.3 - Example Conditions",
-    "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells",
-    "!KSSR/Soft Rains/5 - Examples/5.1 - Example Beastiary",
-    "!KSSR/Soft Rains/5 - Examples",
-    "!KSSR/Soft Rains/4 - Keywords/4.3 - Spell Keywords",
-    "!KSSR/Soft Rains/1 - Introduction/1.2 - Scenario Creation",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,3 @@
+Woodworking is as much of a craft as it is an art, knowing how a wood type reacts to a blade is as vital as understanding how much pressure and strength one must use when carving a piece. With this Knowledge, you may choose to not roll to craft items that use primarily wood related materials. Worldshaper discretion still applies and the resultant item is going to be of decent quality.
+
+__Type:__ Median Practical

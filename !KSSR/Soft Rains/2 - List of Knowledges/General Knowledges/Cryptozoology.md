@@ -1,0 +1,3 @@
+Knowing what is a specter, what is a monstrosity and what is an aberration can save your skin, given their unnatural nature, more specific knowledge is needed. With this Knowledge, you roll one extra dice for every Expertise level for actions related to identifying monsters like specters, aberrations, monstrosities...
+
+__Type:__ Expertise

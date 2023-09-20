@@ -16,25 +16,34 @@
 	* [[!List of Knowledges]]
 * List of Curses and Blessings
 	* Curses
-		* [[!List of Curses]]
+		* [[!List of Barriers]]
 	* Blessings
-		* [[!List of Blessings]]
+		* [[!List of Bolsters]]
 * Keywords
 	* Creature Keywords
 		* [[4.1.1 - Creature Keywords]]
-		* [[4.1.2 - Creature Classifications]]
+		* [[4.1.2 - Creature Classifications]] TODO
 	* Item Keywords
 		*  [[4.2.1 - Item Keywords]]
 		* Tool Power and Weapon Power
 	* Spell Keywords
 		* List of Spell Keywords
 * Examples
-	* Example Beastiary
-		* Example Base Beastiary
-		* Example Beastiary Proper
+	* Example Items
+		* Example General Items
+		* Example Base Items
+		* Example Relics
+		* Modded Item Examples
 	* Example Spells
 		* Example Arcane Spells
 		* Example Divine Spells
+	* Example Structures
+		* Example Headquarters Installations
+		* Example Crafting Stations
+		* Settlement Building Suggestions
+	* Example Beastiary
+		* Example Base Beastiary
+		* Example Beastiary Proper
 	* Example Conditions
 		* Base System Conditions
 		* Example Conditions

@@ -8,14 +8,14 @@ JG, for discussing most media that would inspire me to create some of my scenari
 
 ##### Those pertaining to the realm of Ardur:
 Duarte, a friend and mentor when it comes to TTRPGs;
-Zanoni, a great creative mind that always helped me in my creations;
+Zanoni, a creative mind that always helped me with my designs;
 Neto, for forcibly being one of my guinea pigs when testing this system.
 
 ##### Those pertaining to the Star Weavers:
 Worldsvamp, for always being supportive of my crazy machinations;
 Minnarew, for your hidden creative genius;
-Null, the person who knows waaaaaay more then they should;
-Devi, the silly deer;
+Null, the person that knows waaay more then they should (or bullshitted most of it);
+Devi, the weird goth furry thing?? (as per requested, luv ya);
 Behetee, the main proposer of turning our collective lore into a TTRPG scenario;
 StarFel, for shooting darts at a wall with me and using any idea they stuck on;
 Meow, a friend I deeply admire and always derive inspiration from.

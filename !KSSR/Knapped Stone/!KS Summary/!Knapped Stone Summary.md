@@ -1,27 +1,27 @@
-* [[A Foreword]]
-* [[Acknowledgements and Dedication]]
-* [[SRD and Liscencing]]
+* [[A Foreword]] REVISE
+* [[Acknowledgements and Dedication]] REVISE
+* [[SRD and Liscencing]] REVISE
 * 1- Introduction
 	* 1.1 - The Basics
-		* [[1.1.1 - What is a Tabletop RPG]]
+		* [[1.1.1 - What is a Tabletop RPG]] TODO
 		* [[1.1.2 - The Objective]]
-		* [[1.1.3 - Short Glossary]]
+		* [[1.1.3 - Short Glossary]] TODO
 	* 1.2 - The Table
-		* [[1.2.1 - Where should I play this]]
-		* [[1.2.2 - Sessions and Campaigns]]
-		* [[1.2.3 - The Worldshaper]]
-		* [[1.2.4 - The Players]]
+		* [[1.2.1 - Where should I play this]] TODO
+		* [[1.2.2 - Sessions and Campaigns]] TODO
+		* [[1.2.3 - The Worldshaper]] TODO
+		* [[1.2.4 - The Players]] TODO
 	* 1.3 - Rolling the Die
-		* [[1.3.1 - 6 Sided Dice]]
-		* [[1.3.2 - Mishaps]]
-		* [[1.3.3 - Criticals]]
+		* [[1.3.1 - 6 Sided Dice]] TODO
+		* [[1.3.2 - Mishaps]] TODO
+		* [[1.3.3 - Criticals]] TODO
 * 2 - Character Creation
 	* [[2.1 - Survivors and Legends]]
 	* [[2.2 - The Process]]
 	* 2.3 - Choosing a Sapient
 		* [[2.3.1 - What are Sapients]]
 		* [[2.3.2 - Creating Sapient Pages]]
-		* [[2.3.3 - Example Sapient Pages]]
+		* [[2.3.3 - Example Sapient Pages]] REVISE
 	* 2.4 - Manipulate Attributes
 		* [[2.4.1 - Attributes]]
 		* [[2.4.2 - Attribute Shifting and Trading]]
@@ -29,21 +29,21 @@
 	* 2.5 - Choose a Trade
 		* [[2.5.1 - What are Trades]]
 		* [[2.5.2 - Creating Trades]]
-		* [[2.5.3 - Example Trades]]
+		* [[2.5.3 - Example Trades]] REVISE
 	* 2.6 - Choose an Identity
 		* [[2.6.1 - What are Identities]]
 		* [[2.6.2 - Creating Identities]]
-		* [[2.6.3 - Example Identities]]
+		* [[2.6.3 - Example Identities]] REVISE
 	* 2.7 - Choose 2 Knowledges
 		* [[2.7.1 - What are Knowledges]]
 		* [[2.7.2 - Knowledge Trading]]
 		* [[2.7.3 - Gaining Knowledge during the Game]]
 		* [[2.7.4 - Creating Knowledges]]
-		* [[2.7.5 - Example Knowledges]]
+		* [[2.7.5 - Example Knowledges]] REVISE
 	* 2.8 - Choose a Curse and a Blessing
-		* [[2.8.1 - Choosing Curses and Blessings]]
-		* [[2.8.2 - Creating Curses and Blessings]]
-		* [[2.8.3 - Example Curses and Blessings]]
+		* [[2.8.1 - Choosing Barriers and Bolters]]
+		* [[2.8.2 - Creating Barriers and Bolsters]]
+		* [[2.8.3 - Example Barriers and Bolsters]] REVISE
 * Equipment and Objects
 	* Fill the Backpack
 	* Items
@@ -112,17 +112,23 @@
 		* [[Rolling for Initiative]] TODO
 		* [[Action Economy]] TODO
 		* [[Fighting and Defending]] TODO
-		* Maneuvers (Grapple, Pushing, etc...)
 		* Range in Combat
 		* [[Movement]] TODO
 		* [[Mishaps and Criticals in Combat]] TODO
 		* [[Time in Battle]] TODO
+	* Using the Battlefield
+		* [[Terrain]] TODO
+		* Maneuvers (Grapple, Pushing, etc...)
 		* [[Cover]]
 		* [[Flanking]] TODO
 	* Vehicle Battle
 		* [[Action Economy in Vehicle Battles]] TODO
 		* [[Movement and Vehicles]] TODO
 		* [[Terrain in Vehicle Battles]] TODO
+	* Death and Disaster
+		* [[Hitting 0 HP]] TODO
+		* Death and its Consequences
+		* Retiring Adventurers
 *  Cultures and Settlements
 	* Where the People is
 	* Headquarters
@@ -167,10 +173,6 @@
 		* For Headquarters
 			* Weather and Disasters
 			* Enemy Search Parties
-		* Death and Disaster
-			* [[2.4.1 - Hitting 0 HP]] TODO
-			* Death and its Consequences
-			* Retiring Adventurers
 	* Creatures
 		* [[3.1 - Creating Creatures]] TODO
 		* [[3.2 - Base Creatures]]
