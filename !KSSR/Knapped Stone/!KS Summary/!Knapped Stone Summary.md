@@ -12,7 +12,7 @@
 		* [[1.2.3 - The Worldshaper]] TODO
 		* [[1.2.4 - The Players]] TODO
 	* 1.3 - Rolling the Die
-		* [[1.3.1 - 6 Sided Dice]] TODO
+		* [[1.3.1 - 6 Sided Dice]]
 		* [[1.3.2 - Mishaps]] TODO
 		* [[1.3.3 - Criticals]] TODO
 * 2 - Character Creation
@@ -40,7 +40,7 @@
 		* [[2.7.3 - Gaining Knowledge during the Game]]
 		* [[2.7.4 - Creating Knowledges]]
 		* [[2.7.5 - Example Knowledges]] REVISE
-	* 2.8 - Choose a Curse and a Blessing
+	* 2.8 - Choose a Barrier and a Bolster
 		* [[2.8.1 - Choosing Barriers and Bolters]]
 		* [[2.8.2 - Creating Barriers and Bolsters]]
 		* [[2.8.3 - Example Barriers and Bolsters]] REVISE
@@ -57,7 +57,7 @@
 		* Tools
 		* Armor
 		* Utilities
-		* Amulets
+		* [[2.6 - Amulets]]
 		* Consumables
 	* Spellcasting
 		* How Rare is Magic
@@ -86,7 +86,7 @@
 		* How Modding works
 		* [[6.2 - Adapting]] TODO
 		* [[6.3 - Enchanting]] TODO
-		* [[6.4 - Moddifing]] TODO
+		* [[6.4 - Modding]] TODO
 		* [[6.5 - Polishing]] TODO
 		* [[6.6 - Tipping]] TODO
 	* Relic Equipment
@@ -108,6 +108,7 @@
 		* Example Components
 * Combat
 	* [[Facing the Music]] TODO
+	* The Grid
 	* Fighting Basics
 		* [[Rolling for Initiative]] TODO
 		* [[Action Economy]] TODO
@@ -127,7 +128,7 @@
 		* [[Terrain in Vehicle Battles]] TODO
 	* Death and Disaster
 		* [[Hitting 0 HP]] TODO
-		* Death and its Consequences
+		* [[Death and its Consequences]] REVISE
 		* Retiring Adventurers
 *  Cultures and Settlements
 	* Where the People is

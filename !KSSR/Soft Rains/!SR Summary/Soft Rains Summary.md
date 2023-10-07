@@ -35,7 +35,7 @@
 		* Example Relics
 		* Modded Item Examples
 	* Example Spells
-		* Example Arcane Spells
+		* [[!List of Arcane Spells|Example Arcane Spells]]
 		* Example Divine Spells
 	* Example Structures
 		* Example Headquarters Installations

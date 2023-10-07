@@ -46,43 +46,55 @@
             }
           },
           {
-            "id": "244838f93995e339",
+            "id": "ccce542687007071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!KSSR/Soft Rains/2 - List of Knowledges/Defensive Knowledges/Dodge Savant.md",
+                "file": "!KSSR/Knapped Stone/2 - Character Creation/2.4 - Manipulate Attributes/2.4.2 - Attribute Shifting and Trading.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "a64489c4a96712fb",
+            "id": "273e7027966548a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!KSSR/Soft Rains/2 - List of Knowledges/!List of Knowledges.md",
+                "file": "!KSSR/Soft Rains/4 - Keywords/4.1 - Creature Keywords/4.1.1 - Creature Keywords.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "5da8bbd50053ad73",
+            "id": "be49de92dc132edc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!KSSR/Knapped Stone/2 - Character Creation/2.7 - Choose 2 Knowledges/2.7.5 - Example Knowledges.md",
+                "file": "!KSSR/Knapped Stone/Combat/Death and Disaster/Hitting 0 HP.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2e2a5eb62e96ebd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!KSSR/Soft Rains/4 - Keywords/4.2 - Item Keywords/4.2.1 - Item Keywords.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!KSSR/Soft Rains/2 - List of Knowledges/!List of Knowledges.md",
+                "file": "!KSSR/Knapped Stone/Combat/Death and Disaster/Hitting 0 HP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!KSSR/Soft Rains/2 - List of Knowledges/!List of Knowledges.md",
+                "file": "!KSSR/Knapped Stone/Combat/Death and Disaster/Hitting 0 HP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!KSSR/Soft Rains/2 - List of Knowledges/!List of Knowledges.md"
+                "file": "!KSSR/Knapped Stone/Combat/Death and Disaster/Hitting 0 HP.md"
               }
             }
           },
@@ -227,44 +239,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a64489c4a96712fb",
+  "active": "be49de92dc132edc",
   "lastOpenFiles": [
-    "!KSSR/Soft Rains/2 - List of Knowledges/Defensive Knowledges/Dodge Savant.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/Defensive Knowledges/Armor Mastery.md",
+    "!KSSR/Knapped Stone/Combat/Fighting Basics/Action Economy.md",
+    "!KSSR/Knapped Stone/Combat/Fighting Basics/Time in Battle.md",
+    "!KSSR/Knapped Stone/Combat/Fighting Basics/Movement.md",
+    "!KSSR/Knapped Stone/Combat/Fighting Basics/Mishaps and Criticals in Combat.md",
+    "!KSSR/Knapped Stone/Combat/Fighting Basics/Rolling for Initiative.md",
+    "!KSSR/Knapped Stone/Downtime/Living Standards.md",
+    "!KSSR/Knapped Stone/2 - Character Creation/2.4 - Manipulate Attributes/2.4.2 - Attribute Shifting and Trading.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/Combat Knowledges/Battlefield Commander.md",
+    "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Arcane Spells/Bolt.md",
+    "!KSSR/Soft Rains/4 - Keywords/4.1 - Creature Keywords/4.1.1 - Creature Keywords.md",
+    "!KSSR/Soft Rains/4 - Keywords/4.1 - Creature Keywords/4.1.2 - Creature Classifications.md",
+    "!KSSR/Soft Rains/4 - Keywords/4.2 - Item Keywords/4.2.1 - Item Keywords.md",
+    "!KSSR/Knapped Stone/!KS Summary/!Knapped Stone Summary.md",
+    "!KSSR/Knapped Stone/Combat/Death and Disaster/Hitting 0 HP.md",
+    "!KSSR/Knapped Stone/Combat/Death and Disaster/Death and its Consequences.md",
+    "!KSSR/Knapped Stone/Combat/Fighting Basics/Fighting and Defending.md",
+    "!KSSR/Knapped Stone/2 - Character Creation/2.2 - The Process.md",
     "!KSSR/Soft Rains/2 - List of Knowledges/!List of Knowledges.md",
-    "!KSSR/Knapped Stone/2 - Character Creation/2.7 - Choose 2 Knowledges/2.7.5 - Example Knowledges.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Acrobatics.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/Specific Knowledges/Language (Name).md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/Crafting Knowledges/Woodworking.md",
+    "!KSSR/Soft Rains/3 - List of Barriers and Bolsters/3.3 - Barriers/Unlucky.md",
+    "!KSSR/Soft Rains/3 - List of Barriers and Bolsters/3.3 - Barriers/Sinner.md",
+    "!KSSR/Soft Rains/3 - List of Barriers and Bolsters/3.3 - Barriers/Weakened Body.md",
+    "!KSSR/Soft Rains/3 - List of Barriers and Bolsters/3.3 - Barriers/Dull.md",
+    "!KSSR/Soft Rains/3 - List of Barriers and Bolsters/3.3 - Barriers/!List of Barriers.md",
+    "!KSSR/Soft Rains/3 - List of Barriers and Bolsters/3.3 - Barriers/Allergy.md",
+    "!KSSR/Soft Rains/3 - List of Barriers and Bolsters/3.3 - Barriers/Deaf.md",
+    "!KSSR/Soft Rains/3 - List of Barriers and Bolsters/3.3 - Barriers/Clouded Mind.md",
+    "!KSSR/Soft Rains/2 - List of Knowledges/Combat Knowledges",
+    "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Arcane Spells",
+    "!KSSR/Soft Rains/2 - List of Knowledges/Spellcasting Knowledge",
     "!KSSR/Soft Rains/2 - List of Knowledges/Defensive Knowledges",
-    "!KSSR/Soft Rains/2 - List of Knowledges/Specific Knowledges/(Type) Survival.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Religion.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Sleight of Hand.md",
-    "!KSSR/Knapped Stone/2 - Character Creation/2.7 - Choose 2 Knowledges/2.7.4 - Creating Knowledges.md",
     "!KSSR/Soft Rains/2 - List of Knowledges/Specific Knowledges",
-    "!KSSR/Soft Rains/!SR Summary/Soft Rains Summary.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Technology.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Athletics.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Deception.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Stealth.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Insight.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Astronomy.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Persuasion.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Animal Handling.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Literature.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Intimidation.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Geology.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Geography.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Cryptozoology.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges/Nature.md",
     "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges",
     "!KSSR/Soft Rains/2 - List of Knowledges/Crafting Knowledges",
     "!KSSR/Knapped Stone/Optional Rules/Roll Invalidation Mishap",
     "!KSSR/Knapped Stone/Combat/Using the Battlefield",
     "!KSSR/Knapped Stone/Combat/Death and Disaster",
-    "Scenarios/Spearhead License",
-    "!KSSR/Soft Rains/2 - List of Knowledges/Resource Gathering Knowledges",
-    "!KSSR/Soft Rains/2 - List of Knowledges/Weapon Knowledges",
     "Untitled.canvas"
   ]
 }

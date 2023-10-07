@@ -13,10 +13,12 @@ Presented here is a list of Knowledges, divided by type and in alphabetical orde
 [[History]]
 [[Insight]]
 [[Intimidation]]
+[[Investigation]]
 [[Literature]]
 [[Medicine]]
 [[Nature]]
 [[Persuasion]]
+[[Religion]]
 [[Sleight of Hand]]
 [[Stealth]]
 [[Technology]]
@@ -44,9 +46,18 @@ Presented here is a list of Knowledges, divided by type and in alphabetical orde
 [[Swordsman]]
 [[Thrower]]
 
+## Combat Knowledges
+[[Battlefield Commander]]
+
 ## Defensive Knowledges
 [[Armor Mastery]]
+[[Armored Dodge]]
 [[Dodge Savant]]
+
+## Spellcasting Knowledges
+[[Spellcrafting]]
+[[Sharpcaster]]
+[[Religious Rites (Religion)]]
 
 ## Resource Gathering Knowledges
 [[Agriculture]]
