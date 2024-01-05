@@ -17,6 +17,7 @@ Presented here is a list of Knowledges, divided by type and in alphabetical orde
 [[Literature]]
 [[Medicine]]
 [[Nature]]
+[[Performance]] TODO
 [[Persuasion]]
 [[Religion]]
 [[Sleight of Hand]]
@@ -45,6 +46,7 @@ Presented here is a list of Knowledges, divided by type and in alphabetical orde
 [[Street Combatant]]
 [[Swordsman]]
 [[Thrower]]
+Unarmed Combat
 
 ## Combat Knowledges
 [[Battlefield Commander]]

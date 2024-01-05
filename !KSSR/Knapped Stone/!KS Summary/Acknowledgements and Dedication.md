@@ -8,7 +8,6 @@ JG, for discussing most media that would inspire me to create some of my scenari
 
 ##### Those pertaining to the realm of Ardur:
 Duarte, a friend and mentor when it comes to TTRPGs;
-Zanoni, a creative mind that always helped me with my designs;
 Neto, for forcibly being one of my guinea pigs when testing this system.
 
 ##### Those pertaining to the Star Weavers:

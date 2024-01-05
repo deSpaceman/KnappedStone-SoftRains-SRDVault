@@ -1,5 +1,5 @@
 ___
-### Stunted Learning
+### Expeditious Learning
 __Type:__ Bolster
 
 Due to a larger condition, intense training, deep running personality quirk, or just plain good luck, you learn at a much quicker pace than your fellows.

@@ -1,10 +1,13 @@
-When a player character hits 0 HP, they are presented with a choice of how to proceed
+When a Character hits 0 HP, their Player is present with a choice between Collapse, Grit your Teeth, or Get Gutted. Those choices are described bellow:
 
-*Collapse:* Sometimes, the pain is too overwhelming and the wounds are too much overcome, to Collapse at these moments is no shame, its a natural part of the adventuring life. If you choose to Collapse, your character falls to the ground unconscious.
+- *Collapse*
+Sometimes, the pain is too overwhelming and the wounds are too much overcome, to Collapse at these moments is no shame, its a natural part of the adventuring life. If you choose to Collapse, your character falls to the ground unconscious.
 Roll a Focus Test every round with a raising difficulty of 1 for every 2 rounds you remain on the ground, the difficulty starts at 1. **If you fail three tests, you do not resist your wounds and die.** If one of your fellows helps you with a Mind test with the same difficulty as your Focus test, you are stabilized and do not risk death. If you accumulate 3 Criticals, you reawaken with 1 HP left.
 
-*Grit your Teeth:* The body has many mechanisms to avoid death, from physical things like backup systems and adrenaline to psychological concepts like determination. If you choose to Grit your Teeth, your character will remain standing, but their body will feel the consequences.
+- *Grit your Teeth*
+The body has many mechanisms to avoid death, from physical things like backup systems and adrenaline to psychological concepts like determination. If you choose to Grit your Teeth, your character will remain standing, but their body will feel the consequences.
 Remove an attribute point from either Body, Mind, Focus, Dodge or Toughness permanently. Gain HP equal to double the amount to the attribute had before the point was removed. You may regain these lost attribute points by training as normal. **If any of attributes reaches 0 this way, you fall to the ground exhausted and die at the end of the round.**
 
-*Get Gutted:* Often times, the best way to get a kick back into action is to lose something, in battle, this typically takes the form of body parts. If you choose to Get Gutted, your character will remain standing, but they will be missing something.
+- *Get Gutted*
+Often times, the best way to get a kick back into action is to lose something, in battle, this typically takes the form of body parts. If you choose to Get Gutted, your character will remain standing, but they will be missing something.
 Under Worldshaper discretion, take a mundane Barrier that affects your physical body. Recover HP in accordance to the level of the Barrier (Minor: 5 HP/Mild: 10 HP/Major: 15 HP/Extreme: 30 HP). **You may not die this way, but you will sure be on your way to an early retirement.**

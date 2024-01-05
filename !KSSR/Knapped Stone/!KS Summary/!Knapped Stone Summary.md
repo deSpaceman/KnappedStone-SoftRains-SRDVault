@@ -112,7 +112,7 @@
 	* Fighting Basics
 		* [[Rolling for Initiative]] TODO
 		* [[Action Economy]] TODO
-		* [[Fighting and Defending]] TODO
+		* [[Attacking and Defending]] TODO
 		* Range in Combat
 		* [[Movement]] TODO
 		* [[Mishaps and Criticals in Combat]] TODO
@@ -178,7 +178,7 @@
 		* [[3.1 - Creating Creatures]] TODO
 		* [[3.2 - Base Creatures]]
 		* [[3.3 - Example Creatures]] TODO
-		* [[3.4 - Quick Reference Beastiary]] TODO
+		* [[3.4 - Quick Reference Bestiary]] TODO
 	* Conditions
 		* [[4.1 - What are Conditions]] TODO
 		* [[4.2 - Creating Conditions]] TODO
