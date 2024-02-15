@@ -8,8 +8,8 @@ You have allergy to an allergen of your choice, under Worldshaper discretion, on
 - You take 1 to 3 points of damage;
 - You gain disadvantage on either Body, Mind, or Focus for 1 hour.
 
-Depending on the chosen allergen, the Worldshaper may change the Effect Value of this Barrier.
+Depending on the chosen allergen, the Worldshaper defines the Effect Value of this Barrier.
 
-__Effect Value:__ Minor
+__Effect Value:__ Variable
 
 ___

@@ -1,9 +1,27 @@
 Presented here is a list of example spells in alphabetical order.
 
+[[Arcane Fire]]
 [[Beam]]
+[[Blink]]
 [[Bolt]]
+[[Chain Lightning]]
+[[Create Light]]
+[[Detect Arcane]]
+[[Detect Divine]]
+[[Dispell]]
+[[Esoterics]]
+[[Explosion]]
+[[Fire Ball]]
+[[Freezing Arrow]]
+[[Halt]]
 [[Imbue]]
+[[Mend Matter]] TODO
+[[Mind's Eye]]
 [[Mounting Charge]]
+[[Palm of Force]]
+[[Phantasm]] TODO
+[[Restore]]
 [[Shield]]
 [[Soothe]]
+[[Telekinesis]]
 [[Vortex]]

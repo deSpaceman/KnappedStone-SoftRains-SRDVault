@@ -1,0 +1,1 @@
+Heals 3 targets for a fixed amount

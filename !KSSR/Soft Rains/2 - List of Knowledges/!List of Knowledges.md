@@ -57,9 +57,10 @@ Unarmed Combat
 [[Dodge Savant]]
 
 ## Spellcasting Knowledges
+[[Religious Rites (Religion)]]
+[[Ritual Casting]]
 [[Spellcrafting]]
 [[Sharpcaster]]
-[[Religious Rites (Religion)]]
 
 ## Resource Gathering Knowledges
 [[Agriculture]]

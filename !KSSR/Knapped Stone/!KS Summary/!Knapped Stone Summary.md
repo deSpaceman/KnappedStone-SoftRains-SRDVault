@@ -1,7 +1,7 @@
 * [[A Foreword]] REVISE
 * [[Acknowledgements and Dedication]] REVISE
 * [[SRD and Liscencing]] REVISE
-* 1- Introduction
+* 1 - Introduction
 	* 1.1 - The Basics
 		* [[1.1.1 - What is a Tabletop RPG]] TODO
 		* [[1.1.2 - The Objective]]
@@ -44,151 +44,162 @@
 		* [[2.8.1 - Choosing Barriers and Bolters]]
 		* [[2.8.2 - Creating Barriers and Bolsters]]
 		* [[2.8.3 - Example Barriers and Bolsters]] REVISE
-* Equipment and Objects
-	* Fill the Backpack
-	* Items
-		* [[1.1 - Creating Items]] TODO
-		* [[1.2 - Example Items]] TODO
-		* [[1.3 - Quick Reference Item List]] TODO
-		* [[1.4 - Carrying Limit]]
-	* Equipment
+* 3 - Equipment and Objects
+	* 3.1 - Fill the Backpack
+	* 3.2 - Items
+		* [[3.2.1 - Creating Items]] TODO
+		* [[3.2.2 - Example Items]] TODO
+		* [[3.2.3 - Quick Reference Item List]] TODO
+		* [[3.2.4 - Carrying Limit]]
+	* 3.3 - Equipment
 		* Adventuring Gear
 		* Weapons
 		* Tools
 		* Armor
 		* Utilities
-		* [[2.6 - Amulets]]
+		* [[3.3.6 - Amulets]]
 		* Consumables
-	* Spellcasting
+	* 3.4 - Spellcasting
 		* How Rare is Magic
-		* [[3.2 - Arcane Spellcasting]]
-		* [[3.3 - Soul Phylactery]]
-		* [[3.4 - Places of Power]] TODO
-		* [[3.5 - Divine Spellcasting]]
-		* [[3.6 - Holy Symbols]] TODO
-		* [[3.7 - What are Spells]] TODO
-		* [[3.8 - Creating Spells]] TODO
-		* [[3.9 - Example Spells]] TODO
+		* [[3.4.2 - Arcane Spellcasting]]
+		* [[3.4.3 - Soul Phylactery]]
+		* [[3.4.4 - Places of Power]]
+		* [[3.4.5 - Divine Spellcasting]]
+		* [[3.4.6 - Holy Symbols]] TODO
+		* [[3.4.7 - What are Spells]] TODO
+		* [[3.4.8 - Creating Spells]] TODO
+		* [[3.4.9 - Example Spells]] TODO
 		* NPC Magic
-		* [[3.11 - Other Spellcasting Methods]]
-	* Crafting
-		* [[4.1 - How Crafting works]] TODO
-		* [[4.2 - Creating Crafting Stations]] TODO
-		* [[4.3 - Example Crafting Stations]] TODO
-	* Money
-		* [[5.1 - How Money works]] TODO
+		* [[3.4.11 - Other Spellcasting Methods]]
+	* 3.5 - Crafting
+		* [[3.5.1 - How Crafting works]] TODO
+		* [[3.5.2 - Creating Crafting Stations]] TODO
+		* [[3.5.3 - Example Crafting Stations]] TODO
+	* 3.6 - Money
+		* [[3.6.1 - How Money works]] TODO
 		* Trinkets and Trading
-	* Favor Economy
+	* 3.7 - Favor Economy
 		* How Favors work
 		* What are Patrons
 		* What are Notable Contacts
-	* Equipment Modifing
+	* 3.8 - Equipment Modifing
 		* How Modding works
-		* [[6.2 - Adapting]] TODO
-		* [[6.3 - Enchanting]] TODO
-		* [[6.4 - Modding]] TODO
-		* [[6.5 - Polishing]] TODO
-		* [[6.6 - Tipping]] TODO
-	* Relic Equipment
+		* [[3.8.2 - Adapting]] TODO
+		* [[3.8.3 - Enchanting]] TODO
+		* [[3.8.4 - Modding]] TODO
+		* [[3.8.5 - Polishing]] TODO
+		* [[3.8.6 - Tipping]] TODO
+	* 3.9 - Relic Equipment
 		* Rare Items and Relics
 		* Company Gear
 		* Spellstones
 		* Soul Shards
-* Vehicles
-	* Artificial Mobility
-	* Defining Capabilities
+* 4 - Vehicles
+	* 4.1 - Artificial Mobility
+	* 4.2 - Defining Capabilities
 		* Vehicle Attributes
 		* Vehicle Types
 		* Vehicle Components
 		* Malfunctions
-	* Rolling Wheels
+	* 4.3 - Rolling Wheels
 		* Creating a Vehicle
 		* Example a Vehicle
 		* Creating Components
 		* Example Components
-* Combat
-	* [[Facing the Music]] TODO
-	* The Grid
-	* Fighting Basics
-		* [[Rolling for Initiative]] TODO
-		* [[Action Economy]] TODO
-		* [[Attacking and Defending]] TODO
+* 5 - Combat
+	* [[5.1 - Facing the Music]] TODO
+	* 5.2 - The Grid
+	* 5.3 - Fighting Basics
+		* [[5.3.1 - Rolling for Initiative]] TODO
+		* [[5.3.2 - Action Economy]] TODO
+		* [[5.3.3 - Attacking and Defending]] TODO
 		* Range in Combat
-		* [[Movement]] TODO
-		* [[Mishaps and Criticals in Combat]] TODO
-		* [[Time in Battle]] TODO
-	* Using the Battlefield
-		* [[Terrain]] TODO
-		* Maneuvers (Grapple, Pushing, etc...)
-		* [[Cover]]
-		* [[Flanking]] TODO
-	* Vehicle Battle
-		* [[Action Economy in Vehicle Battles]] TODO
-		* [[Movement and Vehicles]] TODO
-		* [[Terrain in Vehicle Battles]] TODO
-	* Death and Disaster
-		* [[Hitting 0 HP]] TODO
-		* [[Death and its Consequences]] REVISE
+		* [[5.3.5 - Movement]] TODO
+		* [[5.3.6 - Mishaps and Criticals in Combat]] TODO
+		* [[5.3.7 - Time in Battle]] TODO
+	* 5.4 - Using the Battlefield
+		* [[5.4.1 - Terrain]] TODO
+		* [[5.4.2 - Maneuvers]]
+		* [[5.4.3 - Cover]]
+		* [[5.4.4 - Flanking]] TODO
+	* 5.5 - Vehicle Battle
+		* [[5.5.1 - Action Economy in Vehicle Battles]] TODO
+		* [[5.5.2 - and Vehicles]] TODO
+		* [[5.5.3 - Terrain in Vehicle Battles]] TODO
+	* 5.6 - Death and Disaster
+		* [[5.6.1 - Hitting 0 HP]] TODO
+		* [[5.6.2 - Death and its Consequences]] REVISE
 		* Retiring Adventurers
-*  Cultures and Settlements
+*  6 - Cultures and Settlements
 	* Where the People is
-	* Headquarters
-		* What is Headquarters
+	* 6.2 - Headquarters
+		* [[6.2.1 - What are Headquarters]]
 		* Creating a Headquarters
 		* Limitations and Quirks
-	* Building
-		* [[2.1 - How Building works]] TODO
-		* [[2.2 - Construction Materials]] TODO
-		* [[2.3 - Creating Structures]] TODO
-		* [[2.4 - Example Structures]] TODO
-		* [[2.5 - Quick Reference Structure List]] TODO
-	* Settlements
-		* [[3.1 - Settlement Economics]] TODO
-		* [[3.7 - Population]] TODO
-		* [[3.3 - Workers]] TODO
-		* [[3.4 - Creating Settlements]] TODO
-		* [[3.5 - Example Settlement]] TODO
-		* [[3.6 - Settlement Building]] TODO
-* Downtime
+	* 6.3 - Building
+		* [[6.3.1 - How Building works]] TODO
+		* [[6.3.2 - Construction Materials]] TODO
+		* [[6.3.3 - Creating Structures]] TODO
+		* [[6.3.4 - Example Structures]] TODO
+		* [[6.3.5 - Quick Reference Structure List]] TODO
+	* 6.4 - Settlements
+		* [[6.4.1 - Settlement Economics]] TODO
+		* [[6.4.2 - Population]] TODO
+		* [[6.4.3 - Workers]] TODO
+		* [[6.4.4 - Creating Settlements]] TODO
+		* [[6.4.5 - Example Settlement]] TODO
+		* [[6.4.6 - Settlement Building]] TODO
+* 7 - Downtime
 	* Peace Before the Storm
 	* Why is that Important?
 	* Rests
 	* Actual Downtime
 	* Allocating Time
-	* [[Living Standards]]
-* The World
+	* [[7.6 - Living Standards]]
+* 8 - The World
 	* Wide and Venerable
-	* Laws of Nature
-		* [[1.1 - Distances]] TODO
-		* [[1.2 - Time]] TODO
-		* [[1.3 - Seasons]] TODO
-	* Dangers
-		* For Sapients
-			* [[2.1.1 - Hunger]] TODO
-			* [[2.1.2 - Exhaustion]] TODO
-			* [[2.1.3 - Injuries]] TODO
-			* [[2.1.4 - The Elements]] TODO
-		* For Settlements
-			* [[2.2.1 - Natural Disasters]] TODO
-			* [[2.2.2 - Raids]] TODO
-		* For Headquarters
+	* 8.2 - Laws of Nature
+		* [[8.2.1 - Distances]] TODO
+		* [[8.2.2 - Time]] TODO
+		* [[8.2.3 - Seasons]] TODO
+	* 8.3 - Travelling
+		* The Entourage
+		* Terrain while Travelling
+	* 8.4 - Dangers
+		* 8.4.1 - For Sapients
+			* [[8.4.1.1 - Hunger]] TODO
+			* [[8.4.1.2 - Exhaustion]] TODO
+			* [[8.4.1.3 - Injuries]] TODO
+			* [[8.4.1.4 - The Elements]] TODO
+		* 8.4.2 - For Settlements
+			* [[8.4.2.1 - Natural Disasters]] TODO
+			* [[8.4.2.2 - Raids]] TODO
+		* 8.4.3 - For Headquarters
 			* Weather and Disasters
 			* Enemy Search Parties
-	* Creatures
-		* [[3.1 - Creating Creatures]] TODO
-		* [[3.2 - Base Creatures]]
-		* [[3.3 - Example Creatures]] TODO
-		* [[3.4 - Quick Reference Bestiary]] TODO
-	* Conditions
-		* [[4.1 - What are Conditions]] TODO
-		* [[4.2 - Creating Conditions]] TODO
-		* [[4.3 - Example Conditions]] TODO
-* Optional Rules
+	* 8.5 - Creatures
+		* [[8.5.1 - Creating Creatures]] TODO
+		* [[8.5.2 - Base Creatures]]
+		* [[8.5.3 - Example Creatures]] TODO
+		* [[8.5.4 - Quick Reference Bestiary]] TODO
+		* Taming and Befriending
+	* 8.6 - Conditions
+		* [[8.6.1 - What are Conditions]] TODO
+		* [[8.6.2 - Creating Conditions]] TODO
+		* [[8.6.3 - Example Conditions]] TODO
+* 9 - Optional Rules
 	* House rules
-	* Sanity
-		* [[Sanity Attribute]]
-		* [[Madnesses]]
-	* Self-Care Rewards
+	* 9.2 - Sanity
+		* [[9.2.1 - Sanity Attribute]]
+		* [[9.2.2 - Madnesses]]
+	* 9.3 - Self-Care Rewards
 		* Why is this important
 		* Self-Care and You
 		* Balancing the Rewards
+	* 9.4 - Factions
+		* Stratagem System
+		* Manpower
+		* Wealth
+		* Units
+		* Conflicts
+		* Involving Stratagem into a Campaign

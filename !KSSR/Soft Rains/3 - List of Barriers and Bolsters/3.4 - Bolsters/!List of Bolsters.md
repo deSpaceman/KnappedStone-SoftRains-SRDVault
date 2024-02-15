@@ -2,7 +2,7 @@ Presented here is a list of Bolsters in alphabetical order.
 
 [[Bright Mind]]
 [[Danger Sense]]
-[[Desert Dweller]] TODO
+[[Desert Dweller]]
 [[Expeditious Learning]]
 [[Gleaming]]
 [[Lucky]]
@@ -12,4 +12,5 @@ Presented here is a list of Bolsters in alphabetical order.
 [[Slippery]]
 [[Steel Will]]
 [[Strong Body]]
-[[Tundra Dweller]] TODO
+[[Tundra Dweller]]
+[[Unassuming]]

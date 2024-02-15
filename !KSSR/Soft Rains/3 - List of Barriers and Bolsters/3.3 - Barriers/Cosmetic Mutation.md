@@ -9,7 +9,7 @@ You have a mutation that provides no benefits, but it still calls attention of t
 - Limp: Underdeveloped vestigial tail, extra fingers in each hand, and other such not very useful in general mutations are examples of Limp mutations. Different people will react differently to these, some abhorring them, others treating them as weird curious.
 
 This curse can be acquired multiple times. Each time it is acquired, specify the mutation and the type as such as such:
-Cosmetic Mutation: (Mutation, Type)
+"Cosmetic Mutation - (Mutation, Type)"
 It cannot be a repeated mutation.
 
 __Effect Value:__ Minor

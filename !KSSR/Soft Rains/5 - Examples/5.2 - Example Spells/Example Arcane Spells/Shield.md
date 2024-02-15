@@ -5,8 +5,8 @@ ___
 *Keywords*: +1 Shielding Power, Lesser Range, Crafting Complexity Novice
 
 *Cost*: 1 Soul
-*Test*: Mind
+*Test*: Mind (Difficulty 1)
 
-The user covers a target within range with a magical shield for Successes+1 Rounds that provides them with 1 extra Shielding Power.
+The User covers a Target within range with a magical shield for Successes + 1 Rounds that provides them with 1 extra Shielding Power.
 
 ___

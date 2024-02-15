@@ -1,11 +1,12 @@
 Presented here is a list of Barriers in alphabetical order.
-[[Addiction]] TODO
+[[Addiction]]
 [[Allergy]]
 [[Blind]]
+[[Blurry]]
+[[Clean]]
 [[Clouded Mind]]
 [[Cosmetic Mutation]]
 [[Deaf]]
-[[Dull]]
 [[Grimy]]
 [[Limb Paralysis]]
 [[Major Scar(s)]]
@@ -14,6 +15,7 @@ Presented here is a list of Barriers in alphabetical order.
 [[Mute]]
 [[Sinner]]
 [[Stunted Learning]]
+[[Ticker]]
 [[Unlucky]]
 [[Unstable Magician]]
 [[Weakened Body]]

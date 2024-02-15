@@ -14,7 +14,7 @@
 		* World and Maps
 	* Campaign Creation
 		* A Quick Summary
-		* Suggested Campaign Types
+		* Suggested Campaign Focus
 			* Classic Adventure (Classic TTRPG Campaign)
 			* Globe Trotting (Campaign focused on travelling the world)
 			* Into the Unknown (Campaign focused on an unexplored region of the wilderness)
@@ -26,7 +26,7 @@
 		* Scene Maps
 		* Non-Player Characters
 		* Settlements
-		* Factions and Power Play
+		* Factions and Stratagems
 * List of Knowledges
 	* [[!List of Knowledges]]
 * List of Curses and Blessings
@@ -41,8 +41,12 @@
 	* Item Keywords
 		*  [[4.2.1 - Item Keywords]]
 		* Tool Power and Weapon Power
+	* Vehicle Keywords
+		* List of Vehicle Keywords
 	* Spell Keywords
 		* List of Spell Keywords
+	* Structure Keywords
+		* List of Structure Keywords
 * Examples
 	* Example Items
 		* Example General Items
@@ -51,7 +55,7 @@
 		* Modded Item Examples
 	* Example Spells
 		* [[!List of Arcane Spells|Example Arcane Spells]]
-		* Example Divine Spells
+		* [[!List of Divine Spells|Example Divine Spells]]
 	* Example Structures
 		* Example Headquarters Installations
 		* Example Crafting Stations
