@@ -1,0 +1,1 @@
+Allows target to reroll up to 3 dice, once all three charges are used, you cannot be affected with Band of Inspiration for 24h. Any type of Corundum, even Sapphire and Ruby, will reduce Mantra Difficulty by 1.

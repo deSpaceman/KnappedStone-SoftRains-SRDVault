@@ -7,6 +7,6 @@ ___
 *Cost*: 2 Souls
 *Test*: Mind (Attack)
 
-The User creates a cone of magic energy that is 3 Movement Spaces in height and 5 Movement Spaces in base, directly in front of them.
+The User creates a cone of magic energy that is 3 Gridspaces in height and 5 Gridspaces in base, directly in front of them.
 
 ___

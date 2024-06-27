@@ -1,0 +1,1 @@
+Creature affected takes actions dictated by the result of a D6

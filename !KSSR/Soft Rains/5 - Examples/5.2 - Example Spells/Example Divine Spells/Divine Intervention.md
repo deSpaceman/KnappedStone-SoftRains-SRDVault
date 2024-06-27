@@ -1,0 +1,1 @@
+Hard to succeed the Mantra, but can basically do anything within reason for a god/belief. Prayer position must be taken, if it is not, the spell fails.

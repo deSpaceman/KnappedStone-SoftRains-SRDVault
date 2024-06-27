@@ -1,0 +1,1 @@
+Heals all allies in an Aura of 3

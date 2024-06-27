@@ -1,0 +1,1 @@
+Creates a zone of silence

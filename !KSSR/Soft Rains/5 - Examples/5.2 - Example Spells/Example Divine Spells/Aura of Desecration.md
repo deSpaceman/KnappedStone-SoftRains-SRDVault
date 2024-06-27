@@ -1,0 +1,1 @@
+Damages Living Creatures with Necrotic Power, Heals Undead, Aberrations and the likes

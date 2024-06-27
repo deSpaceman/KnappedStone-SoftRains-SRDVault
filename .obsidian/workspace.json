@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "!KSSR/Soft Rains/!SR Summary/!Soft Rains Summary.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "pinned": true
@@ -46,31 +46,31 @@
             }
           },
           {
-            "id": "2d335515f3220ae7",
+            "id": "5a5cd416aae1429d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Arcane Spells/Detect Divine.md",
+                "file": "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Divine Spells/Miraclework.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "6a5046ec8535f04e",
+            "id": "2b5f6cc1edcb38f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!KSSR/Knapped Stone/3 - Equipment and Objects/3.8 - Equipment Moddifing/3.8.2 - Adapting.md",
-                "mode": "source",
+                "file": "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Divine Spells/!List of Divine Spells.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!KSSR/Knapped Stone/!KS Summary/!Knapped Stone Summary.md",
+                "file": "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Divine Spells/Miraclework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!KSSR/Knapped Stone/!KS Summary/!Knapped Stone Summary.md",
+                "file": "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Divine Spells/Miraclework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!KSSR/Knapped Stone/!KS Summary/!Knapped Stone Summary.md"
+                "file": "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Divine Spells/Miraclework.md"
               }
             }
           },
@@ -216,44 +216,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e6bae680535e7b8",
+  "active": "5a5cd416aae1429d",
   "lastOpenFiles": [
+    "!KSSR/Knapped Stone/1 - Introduction/1.2 - The Table/1.2.2 - Sessions and Campaigns.md",
+    "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Divine Spells/Miraclework.md",
+    "!KSSR/Knapped Stone/1 - Introduction/1.1 - The Basics/1.1.1 - What is a Tabletop RPG.md",
+    "!KSSR/Knapped Stone/0 - Pre-Summary/SRD and Liscencing.md",
+    "!KSSR/Knapped Stone/0 - Pre-Summary/Acknowledgements and Dedication.md",
+    "!KSSR/Knapped Stone/0 - Pre-Summary/A Foreword.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.2 - The Grid.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.1 - Facing the Music.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.6 - Death and Disaster/5.6.1 - Hitting 0 HP.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.5 - Vehicle Battle/5.5.1 - Action Economy in Vehicle Battles.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.4 - Using the Battlefield/5.4.4 - Flanking.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.4 - Using the Battlefield/5.4.1 - Terrain.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.3 - Fighting Basics/5.3.7 - Time in Battle.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.3 - Fighting Basics/5.3.2 - Action Economy.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.3 - Fighting Basics/5.3.6 - Mishaps and Criticals in Combat.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.3 - Fighting Basics/5.3.1 - Rolling for Initiative.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.3 - Fighting Basics/5.3.3 - Attacking and Defending.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.3 - Fighting Basics/5.3.5 - Movement.md",
+    "!KSSR/Knapped Stone/4 - Vehicles/4.2- Defining Capabilities/4.2.1 - Vehicle Attributes.md",
     "!KSSR/Knapped Stone/3 - Equipment and Objects/3.8 - Equipment Moddifing/3.8.6 - Tipping.md",
     "!KSSR/Knapped Stone/3 - Equipment and Objects/3.8 - Equipment Moddifing/3.8.5 - Polishing.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.8 - Equipment Moddifing/3.8.3 - Enchanting.md",
     "!KSSR/Knapped Stone/3 - Equipment and Objects/3.8 - Equipment Moddifing/3.8.4 - Modding.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.8 - Equipment Moddifing/3.8.2 - Adapting.md",
+    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.8 - Equipment Moddifing/3.8.3 - Enchanting.md",
+    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.6 - Money/3.6.1 - How Money works.md",
+    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.5 - Crafting/3.5.1 - How Crafting works.md",
     "!KSSR/Knapped Stone/3 - Equipment and Objects/3.5 - Crafting/3.5.2 - Creating Crafting Stations.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.5 - Crafting/3.5.3 - Example Crafting Stations.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.4 - Spellcasting/3.4.9 - Example Spells.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.4 - Spellcasting/3.4.8 - Creating Spells.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.4 - Spellcasting/3.4.7 - What are Spells.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.4 - Spellcasting/3.4.4 - Places of Power.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.4 - Spellcasting/3.4.6 - Holy Symbols.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.2 - Items/3.2.2 - Example Items.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.2 - Items/3.2.1 - Creating Items.md",
-    "!KSSR/Knapped Stone/2 - Character Creation/2.2 - The Process.md",
-    "!KSSR/Knapped Stone/2 - Character Creation/2.8 - Choose a Barrier and a Bolster/2.8.3 - Example Barriers and Bolsters.md",
-    "!KSSR/Soft Rains/4 - Keywords/4.2 - Item Keywords/4.2.1 - Item Keywords.md",
-    "!KSSR/Soft Rains/4 - Keywords/4.1 - Creature Keywords/4.1.1 - Creature Keywords.md",
-    "Scenarios/Hyperpulse/Creatures/Creature Keywords.md",
-    "Scenarios/Minecraft Scenario/Creature Keywords.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.4 - Using the Battlefield/5.4.2 - Maneuvers.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.5 - Vehicle Battle/5.5.3 - Terrain in Vehicle Battles.md",
-    "!KSSR/Soft Rains/2 - List of Knowledges/!List of Knowledges.md",
-    "!KSSR/Knapped Stone/2 - Character Creation/2.7 - Choose 2 Knowledges/2.7.1 - What are Knowledges.md",
-    "!KSSR/Soft Rains/3 - List of Barriers and Bolsters/3.4 - Bolsters/Steel Will.md",
-    "!KSSR/Soft Rains/3 - List of Barriers and Bolsters/3.4 - Bolsters/Strong Body.md",
-    "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Divine Spells",
-    "!KSSR/Soft Rains/1 - Introduction/1.3 - Campaign Creation",
-    "!KSSR/Soft Rains/2 - List of Knowledges/Combat Knowledges",
-    "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Arcane Spells",
-    "!KSSR/Soft Rains/2 - List of Knowledges/Spellcasting Knowledge",
-    "!KSSR/Soft Rains/2 - List of Knowledges/Defensive Knowledges",
-    "!KSSR/Soft Rains/2 - List of Knowledges/Specific Knowledges",
-    "!KSSR/Soft Rains/2 - List of Knowledges/General Knowledges",
-    "!KSSR/Soft Rains/2 - List of Knowledges/Crafting Knowledges",
-    "!KSSR/Knapped Stone/Optional Rules/Roll Invalidation Mishap",
+    "!KSSR/Z Imagery/Diagrams/Flank Directions Diagram.png",
+    "!KSSR/Z Imagery/Diagrams/Unreachable Person Flank Diagram.png",
+    "!KSSR/Z Imagery/Diagrams/Third Person Flank Diagram.png",
+    "!KSSR/Z Imagery/Diagrams/Valid Flanks Diagram.png",
+    "!KSSR/Z Imagery/Diagrams/Invalid Flanks Diagram.png",
+    "!KSSR/Soft Rains/5 - Examples/5.4 - Example Structures",
+    "!KSSR/Soft Rains/5 - Examples/5.3 - Example Vehicles",
+    "!KSSR/Soft Rains/5 - Examples/5.1 - Example Items",
+    "!KSSR/Knapped Stone/0 - Pre-Summary",
+    "!KSSR/Knapped Stone/4 - Vehicles/4.2- Defining Capabilities",
+    "Old Files",
+    "!KSSR/Z Imagery/Diagrams/Aura Diagram.png",
+    "!KSSR/Z Imagery/Diagrams/Area Diagram.png",
+    "Pasted image 20240510121751.png",
+    "!KSSR/Soft Rains/3 - List of Descriptors/3.3 - Injuries",
+    "!KSSR/Z Imagery/Diagrams/Cone Diagram.png",
+    "!KSSR/Z Imagery/Diagrams",
+    "!KSSR/Z Imagery",
+    "!KSSR/Knapped Stone/9 - Optional Rules/9.4 - Factions",
     "Untitled.canvas"
   ]
 }

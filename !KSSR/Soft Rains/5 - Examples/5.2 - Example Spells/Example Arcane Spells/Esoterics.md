@@ -8,7 +8,7 @@ ___
 *Test*: Mind (Difficulty 1)
 *Focus Difficulty*: 1
 
-The User creates up to three effects, which can be repeated, from the list bellow with range.
+The User creates up to three effects, which can be repeated, from the list bellow within range.
 
 - Create a harmless illusion, like a slight breeze, faint music, a vile odor, a sweet taste, or spark of light;
 

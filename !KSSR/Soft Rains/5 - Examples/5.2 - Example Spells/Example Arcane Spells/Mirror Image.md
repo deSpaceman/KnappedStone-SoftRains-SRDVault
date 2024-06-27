@@ -1,0 +1,1 @@
+Creates 2 fake copies of the User. A mirror can be used to reduce Soul Cost.

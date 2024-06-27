@@ -1,0 +1,1 @@
+The User has a choice between making the Target have Disadvantage 2 when attacking a Creature defined by them, Need to Roll Focus or lose one Action of their turn, or take a random Condition from a list of 6.

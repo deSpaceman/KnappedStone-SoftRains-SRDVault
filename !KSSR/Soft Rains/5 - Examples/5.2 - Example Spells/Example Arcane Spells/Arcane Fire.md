@@ -6,7 +6,8 @@ ___
 
 *Cost*: 3 Souls
 *Test*: Mind (Attack *or* Difficulty 2 if Targetless)
+*Material*: Wood Ash (-2 Soul Cost, Consumed)
 
-The User creates a point of magic energy, within range, that bursts into iridescent magical flames, damaging all creatures caught in its area. The fire remains in the field as damaging Hazards for Successes + 2 Rounds.
+The User creates a point of magic energy, within range, that bursts into iridescent magical flames, damaging all Creatures caught in its area. The fire remains in the field as damaging [[5.4.1 - Terrain|Hazards]] for Successes + 2 Rounds.
 
 ___

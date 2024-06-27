@@ -7,6 +7,6 @@ ___
 *Cost*: 1 Soul
 *Test*: Mind (Difficulty 1)
 
-The User covers a Target within range with a magical shield for Successes + 1 Rounds that provides them with 1 extra Shielding Power.
+The User covers a Target within range with a magical shield for Successes + 1 Rounds that provides them with 1 extra [[4.2.1 - Item Keywords|Shielding Power]].
 
 ___

@@ -1,0 +1,1 @@
+Damages Undead, Aberrations and the likes with Radiant Power, Heals Living Creatures

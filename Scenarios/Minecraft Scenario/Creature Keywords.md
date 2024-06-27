@@ -4,7 +4,7 @@
 
 **Beast**: Beasts are natural living beings made out of animal stuff. Ignored by most monsters.
 
-**Undead**: Undead Creatures are born out of necrotic energies. Due to this, they burn in the holy light of the sun, are immune to Poison damage and the Poisoned condition and the recieve Health from Harming Potions and damage from Healing Potions and Regeneration.
+**Undead**: Undead Creatures are born out of necrotic energies. Due to this, they burn in the holy light of the sun, are immune to Poison damage and the Poisoned condition and the receive Health from Harming Potions and damage from Healing Potions and Regeneration.
 
 **Arthropod**: Arthropods are much like Beasts, but they can Climb surfaces without expanding extra Movement and are unnaffected by webbing.
 
@@ -153,7 +153,7 @@
 
 **Illager**: Treat this Creature as if it also has the Illager classification. This is only for reference for certain enchantments, as this classification doesn't really exist.
 
-**Skulk**: Treat this Creature as if it also has the Skulk classification. This is only for reference for certain enchantments, as this classification doesn't really exist.
+**Sculk**: Treat this Creature as if it also has the Sculk classification. This is only for reference for certain enchantments, as this classification doesn't really exist.
 
 
 

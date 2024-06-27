@@ -1,0 +1,3 @@
+Analyses an object, informing its function, presence of magic, properties, etc...
+
+If a volcanic glass lens is used as a material component, this Spell is free. The lens is not consumed.

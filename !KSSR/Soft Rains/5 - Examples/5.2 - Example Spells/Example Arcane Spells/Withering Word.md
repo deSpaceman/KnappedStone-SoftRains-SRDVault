@@ -1,0 +1,1 @@
+Kills a target with 8 or less HP, very powerful, very costly, very hard to craft, and the word MUST be spoken by the user and heard by the target for the spell to work. NEEDS the bone-meal from the skull of a sapient, which is consumed up casting.

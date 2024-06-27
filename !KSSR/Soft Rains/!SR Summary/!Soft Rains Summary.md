@@ -29,18 +29,20 @@
 		* Factions and Stratagems
 * List of Knowledges
 	* [[!List of Knowledges]]
-* List of Curses and Blessings
+* List of Descriptors
 	* Curses
 		* [[!List of Barriers]]
 	* Blessings
 		* [[!List of Bolsters]]
+	* Injuries
+		* [[!List of Injuries]]
 * Keywords
 	* Creature Keywords
 		* [[4.1.1 - Creature Keywords]]
 		* [[4.1.2 - Creature Classifications]] TODO
 	* Item Keywords
-		*  [[4.2.1 - Item Keywords]]
-		* Tool Power and Weapon Power
+		* [[4.2.1 - Item Keywords]]
+		* [[4.2.2 - Tool and Weapon Power]]
 	* Vehicle Keywords
 		* List of Vehicle Keywords
 	* Spell Keywords
@@ -49,13 +51,19 @@
 		* List of Structure Keywords
 * Examples
 	* Example Items
-		* Example General Items
+		* [[5.1.1 - Example General Items]]
 		* Example Base Items
 		* Example Relics
 		* Modded Item Examples
 	* Example Spells
 		* [[!List of Arcane Spells|Example Arcane Spells]]
 		* [[!List of Divine Spells|Example Divine Spells]]
+	* Example Vehicles
+		* Example Land Vehicles
+		* Example Water Vehicles
+		* Example Air Vehicles
+		* Example Space Vehicles
+		* Example Components
 	* Example Structures
 		* Example Headquarters Installations
 		* Example Crafting Stations

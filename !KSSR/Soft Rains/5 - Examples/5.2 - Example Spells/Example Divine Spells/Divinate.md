@@ -6,6 +6,7 @@ ___
 
 *Mantra Difficulty*: 2
 *Test*: Mind (Difficulty 3)
+*Material*: Hourglass with White Sand (-1 Mantra Difficulty, Preserved)
 
 The User calls upon their deity or belief and asks a question. The Worldshaper gives a vague answer in the form of a vision. The vision has some limitations: it can only relate to actions and events.
 

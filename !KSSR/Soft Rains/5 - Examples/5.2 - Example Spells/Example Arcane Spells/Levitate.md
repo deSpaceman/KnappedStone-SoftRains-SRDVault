@@ -1,0 +1,1 @@
+Levitates a Creature, making them helpless
