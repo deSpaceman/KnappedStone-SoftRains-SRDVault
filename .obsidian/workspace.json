@@ -68,9 +68,32 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ea255b9b91b55fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!KSSR/Knapped Stone/5 - Combat/5.5 - Vehicle Battle/5.5.3 - Driving the Battlefield.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "88d32f3b2428147b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!KSSR/Soft Rains/3 - List of Descriptors/3.2 - Bolsters/Expeditious Learning.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Divine Spells/Miraclework.md",
+                "file": "!KSSR/Knapped Stone/!KS Summary/!Knapped Stone Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Divine Spells/Miraclework.md",
+                "file": "!KSSR/Knapped Stone/!KS Summary/!Knapped Stone Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Divine Spells/Miraclework.md"
+                "file": "!KSSR/Knapped Stone/!KS Summary/!Knapped Stone Summary.md"
               }
             }
           },
@@ -216,34 +239,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a5cd416aae1429d",
+  "active": "3b00df4274318c7b",
   "lastOpenFiles": [
-    "!KSSR/Knapped Stone/1 - Introduction/1.2 - The Table/1.2.2 - Sessions and Campaigns.md",
-    "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Divine Spells/Miraclework.md",
-    "!KSSR/Knapped Stone/1 - Introduction/1.1 - The Basics/1.1.1 - What is a Tabletop RPG.md",
-    "!KSSR/Knapped Stone/0 - Pre-Summary/SRD and Liscencing.md",
-    "!KSSR/Knapped Stone/0 - Pre-Summary/Acknowledgements and Dedication.md",
-    "!KSSR/Knapped Stone/0 - Pre-Summary/A Foreword.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.2 - The Grid.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.1 - Facing the Music.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.6 - Death and Disaster/5.6.1 - Hitting 0 HP.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.5 - Vehicle Battle/5.5.1 - Action Economy in Vehicle Battles.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.4 - Using the Battlefield/5.4.4 - Flanking.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.4 - Using the Battlefield/5.4.1 - Terrain.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.3 - Fighting Basics/5.3.7 - Time in Battle.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.3 - Fighting Basics/5.3.2 - Action Economy.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.3 - Fighting Basics/5.3.6 - Mishaps and Criticals in Combat.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.3 - Fighting Basics/5.3.1 - Rolling for Initiative.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.3 - Fighting Basics/5.3.3 - Attacking and Defending.md",
-    "!KSSR/Knapped Stone/5 - Combat/5.3 - Fighting Basics/5.3.5 - Movement.md",
-    "!KSSR/Knapped Stone/4 - Vehicles/4.2- Defining Capabilities/4.2.1 - Vehicle Attributes.md",
+    "!KSSR/Soft Rains/3 - List of Descriptors/3.2 - Bolsters/Expeditious Learning.md",
+    "!KSSR/Soft Rains/3 - List of Descriptors/3.1 - Barriers/Weakened Body.md",
+    "!KSSR/Soft Rains/3 - List of Descriptors/3.1 - Barriers/Missing Limb.md",
+    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.2 - Items/3.2.4 - Carrying Limit.md",
+    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.2 - Items/3.2.1 - Creating Items.md",
+    "!KSSR/Knapped Stone/2 - Character Creation/2.6 - Choose an Identity/2.6.1 - What are Identities.md",
+    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.8 - Equipment Moddifing/3.8.2 - Adapting.md",
+    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.8 - Equipment Moddifing/3.8.3 - Enchanting.md",
     "!KSSR/Knapped Stone/3 - Equipment and Objects/3.8 - Equipment Moddifing/3.8.6 - Tipping.md",
     "!KSSR/Knapped Stone/3 - Equipment and Objects/3.8 - Equipment Moddifing/3.8.5 - Polishing.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.8 - Equipment Moddifing/3.8.4 - Modding.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.8 - Equipment Moddifing/3.8.3 - Enchanting.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.6 - Money/3.6.1 - How Money works.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.5 - Crafting/3.5.1 - How Crafting works.md",
-    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.5 - Crafting/3.5.2 - Creating Crafting Stations.md",
+    "!KSSR/Knapped Stone/6 - Cultures and Settlements/6.2 - Headquarters/6.2.1 - What are Headquarters.md",
+    "!KSSR/Knapped Stone/6 - Cultures and Settlements/6.3 - Building/6.3.1 - How Building works.md",
+    "!KSSR/Knapped Stone/6 - Cultures and Settlements/6.4 - Settlements/6.4.1 - Settlement Economics.md",
+    "!KSSR/Knapped Stone/6 - Cultures and Settlements/6.4 - Settlements/6.4.3 - Workers.md",
+    "!KSSR/Knapped Stone/6 - Cultures and Settlements/6.4 - Settlements/6.4.2 - Population.md",
+    "!KSSR/Knapped Stone/7 - Downtime/7.2 - Rests and Breathers.md",
+    "!KSSR/Knapped Stone/7 - Downtime/7.5 - Living Standards.md",
+    "!KSSR/Knapped Stone/6 - Cultures and Settlements/6.3 - Building/6.3.2 - Construction Materials.md",
+    "!KSSR/Knapped Stone/6 - Cultures and Settlements/6.3 - Building/6.3.3 - Creating Structures.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.6 - Death and Disaster/5.6.2 - Death and its Consequences.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.6 - Death and Disaster/5.6.1 - Hitting 0 HP.md",
+    "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Arcane Spells/Signal Beam.md",
+    "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Arcane Spells/Soothe.md",
+    "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Arcane Spells/Sleep.md",
+    "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Arcane Spells/Telekinesis.md",
+    "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Arcane Spells/Tri-Missile.md",
     "!KSSR/Z Imagery/Diagrams/Flank Directions Diagram.png",
     "!KSSR/Z Imagery/Diagrams/Unreachable Person Flank Diagram.png",
     "!KSSR/Z Imagery/Diagrams/Third Person Flank Diagram.png",
