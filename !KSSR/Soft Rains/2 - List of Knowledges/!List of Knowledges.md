@@ -56,6 +56,7 @@ Vehicle Repair
 [[Battle Trance]]
 [[Battlefield Commander]]
 [[Talesinger]]
+Dual Wielding
 
 ## Defensive Knowledges
 [[Armor Mastery]]
@@ -63,8 +64,9 @@ Vehicle Repair
 [[Dodge Savant]]
 
 ## Spellcasting Knowledges
+[[Concentration Mastery]] TODO
 [[Religious Rites (Religion)]]
-[[Ritual Casting]]
+[[Ritual Casting]] TODO
 [[Spellcrafting]]
 [[Sharpcaster]]
 

@@ -1,0 +1,1 @@
+Allows to upkeep more Concentration Spells per Action

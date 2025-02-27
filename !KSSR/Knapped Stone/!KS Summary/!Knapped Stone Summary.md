@@ -15,7 +15,7 @@
 		* [[1.3.1 - 6 Sided Dice]]
 		* [[1.3.2 - Mishaps]] TODO
 		* [[1.3.3 - Criticals]] TODO
-* 2 - Character Creation
+* **2 - Character Creation**
 	* [[2.1 - Survivors and Legends]]
 	* [[2.2 - The Process]]
 	* **2.3 - Choosing a Sapient**
@@ -25,10 +25,9 @@
 		* [[2.4.1 - Attributes]]
 		* [[2.4.2 - Attribute Shifting and Trading]]
 		* [[2.4.3 - Gaining Attributes during the Game]]
-	* 2.5 - Choose a Trade
+	* **2.5 - Choose a Trade**
 		* [[2.5.1 - What are Trades]]
 		* [[2.5.2 - Creating Trades]]
-		* [[2.5.3 - Types of Trades]] TODO
 	* **2.6 - Choose an Identity**
 		* [[2.6.1 - What are Identities]]
 		* [[2.6.2 - Creating Identities]]
@@ -41,18 +40,18 @@
 		* [[2.8.1 - Choosing Barriers and Bolters]]
 		* [[2.8.2 - Creating Barriers and Bolsters]]
 * 3 - Equipment and Objects
-	* 3.1 - Fill the Backpack
+	* 3.1 - Filling the Backpack
 	* 3.2 - Items
 		* [[3.2.1 - Creating Items]] TODO
 		* [[3.2.4 - Carrying Limit]]
-	* 3.3 - Equipment
-		* [[3.3.1 - Adventuring Gear]] TODO
-		* [[3.3.2 - Weapons]] TODO
-		* Tools
-		* [[3.3.4 - Armor]] TODO
-		* Utilities
+	* **3.3 - Equipment**
+		* [[3.3.1 - Adventuring Gear]]
+		* [[3.3.2 - Weapons]]
+		* [[3.3.3 - Tools]]
+		* [[3.3.4 - Armor]]
+		* [[3.3.5 - Utilities]]
 		* [[3.3.6 - Amulets]]
-		* [[3.3.7 - Consumables]] TODO
+		* [[3.3.7 - Consumables]]
 	* 3.4 - Spellcasting
 		* How Rare is Magic
 		* [[3.4.2 - Arcane Spellcasting]]
@@ -117,12 +116,12 @@
 		* [[5.5.1 - Action Economy in Vehicle Battles]]
 		* [[5.5.2 - Movement and Vehicles]] TODO
 		* [[5.5.3 - Driving the Battlefield]] TODO
-	* 5.6 - Death and Disaster
-		* [[5.6.1 - Hitting 0 HP]] TODO
-		* [[5.6.2 - Death and its Consequences]] REVISE
-		* Retiring Adventurers
+	* **5.6 - Death and Disaster**
+		* [[5.6.1 - Hitting 0 HP]]
+		* [[5.6.2 - Death and its Consequences]]
+		* [[5.6.3 - Retiring Adventurers]]
 *  6 - Cultures and Settlements
-	* Where the People is
+	* Where the People are
 	* 6.2 - Headquarters
 		* [[6.2.1 - What are Headquarters]]
 		* Creating a Headquarters
@@ -174,7 +173,7 @@
 		* [[8.6.1 - What are Conditions]] TODO
 		* [[8.6.2 - Creating Conditions]] TODO
 * 9 - Optional Rules
-	* House rules
+	* House Rules
 	* 9.2 - Sanity
 		* [[9.2.1 - Sanity Attribute]] TODO
 		* [[9.2.2 - Madnesses]] TODO
@@ -192,4 +191,4 @@
 		* Actions and Objectives
 		* Units and Installations
 		* Conflicts
-		* Involving Stratagem into a Campaign
+		* Involving Stratagem in a Campaign

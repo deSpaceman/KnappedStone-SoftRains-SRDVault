@@ -18,9 +18,11 @@ Presented here is a list of example spells in alphabetical order.
 [[Esoterics]]
 [[Explosion]]
 [[Fire Ball]]
+[[Flaming Tongue]] TODO
 [[Flash Freeze]]
 [[Force Ballista]]
 [[Freezing Arrow]]
+[[Frost Edge]] TODO
 [[Halt]]
 [[Igniting Blast]]
 [[Imbue]]
@@ -34,12 +36,15 @@ Presented here is a list of example spells in alphabetical order.
 [[Poison Cloud]] TODO
 [[Restore]]
 [[Rust]] TODO
+[[Screech]] TODO
 [[Shield]]
 [[Signal Beam]]
 [[Silence]] TODO
 [[Sleep]] TODO
 [[Soothe]]
+[[Sweeping Edge]] TODO
 [[Telekinesis]]
+[[Thundering Blade]] TODO
 [[Tri-Missile]]
 [[Vortex]]
 [[Withering Word]] TODO

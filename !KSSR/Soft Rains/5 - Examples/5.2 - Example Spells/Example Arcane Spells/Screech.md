@@ -1,0 +1,1 @@
+Line that is not blocked by Creatures. Deals Physical Power.

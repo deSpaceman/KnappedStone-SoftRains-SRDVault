@@ -5,7 +5,7 @@ To stave off the noise and distractions of battle and laser-focus into your acti
 - Expert: While in Battle Trance, instead of 1 additional dice, you roll 2 additional dice on non-spellcasting attacks you make;
 - Master: While in Battle Trance, if you take lethal damage (that is, damage that would kill you) and you are above 1 HP, get your Current Health reduced to 1 HP instead.
 
-You may leave Battle Trance as a Free Action, but, if you do so, you cannot Battle Trance until the next Breather. The [[Concentration Break|Concentration Break Spell]] may be used to break a Creature out of Battle Trance, making them unable to Battle Trance until their next [[7.2 - Rests and Breathers|Breather]].
+You may leave Battle Trance as a Free Action, but, if you do so, you cannot Battle Trance until the next Breather. The [[Concentration Break]] Spell may be used to break a Creature out of Battle Trance, making them unable to Battle Trance until their next [[7.2 - Rests and Breathers|Breather]].
 
 Finishing a Combat Scene while in Battle Trance will result in you coming out of Battle Trance. Although, in this situation, you do not need to wait until your next Breather to enter it again.
 

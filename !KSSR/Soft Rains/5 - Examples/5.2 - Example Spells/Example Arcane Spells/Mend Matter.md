@@ -7,6 +7,8 @@ ___
 *Cost*: 1 Soul
 *Test*: Mind (Difficulty 1)
 
+The measures given in the text of this spell may be adjusted to better fit a given setting.
+
 The User touches and object and focuses magical energy to repair up to 50 cubic centimeters of matter of said object.
 
 The repairs only work to keep the object's current functionality (you cannot repair a piece of armor back to the plating used to forge it), on top of that, this spell only works when repairing metal, stone, cloth, or wood.

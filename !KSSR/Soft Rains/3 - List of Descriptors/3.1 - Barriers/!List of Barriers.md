@@ -14,6 +14,7 @@ Presented here is a list of Barriers in alphabetical order.
 [[Missing Limb]]
 [[Muddled Focus]]
 [[Mute]]
+[[Revival Attrition]]
 [[Sinner]]
 [[Stunted Learning]]
 [[Ticker]]

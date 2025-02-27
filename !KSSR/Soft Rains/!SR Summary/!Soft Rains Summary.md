@@ -30,9 +30,9 @@
 * List of Knowledges
 	* [[!List of Knowledges]]
 * List of Descriptors
-	* Curses
+	* Barriers
 		* [[!List of Barriers]]
-	* Blessings
+	* Bolsters
 		* [[!List of Bolsters]]
 	* Injuries
 		* [[!List of Injuries]]

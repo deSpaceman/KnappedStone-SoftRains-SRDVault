@@ -5,12 +5,14 @@ Presented here is a list of example spells in alphabetical order.
 [[Aura of Consecration]] TODO
 [[Aura of Desecration]] TODO
 [[Band of Inspiration]] TODO
+[[Bless Weapon]] TODO
 [[Calm Creature]] TODO
 [[Celestial Beam]]
 [[Concentration Break]]
 [[Confusion]] TODO
+[[Curse Weapon]] TODO
 [[Divinate]]
-[[Divine Intervention]] TODO
+[[Divine Intervention]]
 [[Faith Shield]]
 [[Gloom Bolt]]
 [[Healing Circle]] TODO
@@ -21,6 +23,7 @@ Presented here is a list of example spells in alphabetical order.
 [[Imprison]]
 [[Item Switch]] TODO
 [[Mend Body]]
+[[Miraclework]]
 [[Protect Matter]] TODO
 [[Purify & Blight]]
 [[Radiance Bolt]]
