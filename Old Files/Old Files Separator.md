@@ -1,5 +1,0 @@
-[[2.7.5 - Example Knowledges]]
-[[2.8.3 - Example Barriers and Bolsters]]
-[[2.3.3 - Example Sapient Pages]]
-[[2.6.3 - Example Identities]]
-[[2.5.3 - Types of Trades]]

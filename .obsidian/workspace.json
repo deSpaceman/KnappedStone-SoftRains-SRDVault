@@ -92,9 +92,23 @@
               "icon": "lucide-file",
               "title": "A Foreword"
             }
+          },
+          {
+            "id": "c7e3321e92cf15fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old_files/Acknowledgements and Dedication.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Acknowledgements and Dedication"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -177,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!KSSR/Knapped Stone/0 - Pre-Summary/A Foreword.md",
+                "file": "old_files/Acknowledgements and Dedication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A Foreword"
+              "title": "Backlinks for Acknowledgements and Dedication"
             }
           },
           {
@@ -259,11 +273,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "430d15eb156e2319",
+  "active": "9e6bae680535e7b8",
   "lastOpenFiles": [
+    "!KSSR/Knapped Stone/0 - Pre-Summary/A Foreword.md",
     "Novo(a) Documento de Texto.txt",
-    "!KSSR/Knapped Stone/0 - Pre-Summary/SRD and Liscencing.md",
-    "!KSSR/Knapped Stone/0 - Pre-Summary/Acknowledgements and Dedication.md",
+    "old_files/SRD and Liscencing.md",
+    "old_files/Acknowledgements and Dedication.md",
     "!KSSR/Knapped Stone/5 - Combat/5.6 - Death and Disaster/5.6.1 - Hitting 0 HP.md",
     "!KSSR/Knapped Stone/3 - Equipment and Objects/3.3 - Equipment/3.3.4 - Armor.md",
     "!KSSR/Knapped Stone/3 - Equipment and Objects/3.3 - Equipment/3.3.3 - Tools.md",
@@ -297,7 +312,7 @@
     "!KSSR/Soft Rains/5 - Examples/5.1 - Example Items",
     "!KSSR/Knapped Stone/0 - Pre-Summary",
     "!KSSR/Knapped Stone/4 - Vehicles/4.2- Defining Capabilities",
-    "Old Files",
+    "old_files",
     "!KSSR/Z Imagery/Diagrams/Aura Diagram.png",
     "!KSSR/Z Imagery/Diagrams/Area Diagram.png",
     "Pasted image 20240510121751.png",
@@ -305,7 +320,6 @@
     "!KSSR/Z Imagery/Diagrams/Cone Diagram.png",
     "!KSSR/Z Imagery/Diagrams",
     "!KSSR/Z Imagery",
-    "!KSSR/Knapped Stone/9 - Optional Rules/9.4 - Factions",
     "Untitled.canvas"
   ]
 }
