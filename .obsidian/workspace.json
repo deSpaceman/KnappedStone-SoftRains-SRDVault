@@ -85,12 +85,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!KSSR/Knapped Stone/3 - Equipment and Objects/3.4 - Spellcasting/3.4.2 - Arcane Spellcasting.md",
-                "mode": "preview",
+                "file": "!KSSR/Knapped Stone/0 - Pre-Summary/A Foreword.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3.4.2 - Arcane Spellcasting"
+              "title": "A Foreword"
             }
           }
         ],
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!KSSR/Knapped Stone/3 - Equipment and Objects/3.4 - Spellcasting/3.4.2 - Arcane Spellcasting.md",
+                "file": "!KSSR/Knapped Stone/0 - Pre-Summary/A Foreword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.4.2 - Arcane Spellcasting"
+              "title": "Backlinks for A Foreword"
             }
           },
           {
@@ -261,6 +261,13 @@
   },
   "active": "430d15eb156e2319",
   "lastOpenFiles": [
+    "Novo(a) Documento de Texto.txt",
+    "!KSSR/Knapped Stone/0 - Pre-Summary/SRD and Liscencing.md",
+    "!KSSR/Knapped Stone/0 - Pre-Summary/Acknowledgements and Dedication.md",
+    "!KSSR/Knapped Stone/5 - Combat/5.6 - Death and Disaster/5.6.1 - Hitting 0 HP.md",
+    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.3 - Equipment/3.3.4 - Armor.md",
+    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.3 - Equipment/3.3.3 - Tools.md",
+    "!KSSR/Knapped Stone/3 - Equipment and Objects/3.4 - Spellcasting/3.4.2 - Arcane Spellcasting.md",
     "!KSSR/Knapped Stone/3 - Equipment and Objects/3.4 - Spellcasting/3.4.4 - Places of Power.md",
     "!KSSR/Knapped Stone/3 - Equipment and Objects/3.4 - Spellcasting/3.4.6 - Holy Symbols.md",
     "!KSSR/Knapped Stone/3 - Equipment and Objects/3.4 - Spellcasting/3.4.8 - Creating Spells.md",
@@ -280,13 +287,6 @@
     "!KSSR/Knapped Stone/2 - Character Creation/2.4 - Manipulate Attributes/2.4.2 - Attribute Shifting and Trading.md",
     "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Arcane Spells/!List of Arcane Spells.md",
     "!KSSR/Soft Rains/3 - List of Descriptors/3.2 - Bolsters/Bright Mind.md",
-    "!KSSR/Soft Rains/3 - List of Descriptors/3.2 - Bolsters/Desert Dweller.md",
-    "!KSSR/Soft Rains/3 - List of Descriptors/3.2 - Bolsters/Danger Sense.md",
-    "!KSSR/Soft Rains/3 - List of Descriptors/3.2 - Bolsters/Scavenger Mage.md",
-    "!KSSR/Soft Rains/3 - List of Descriptors/3.2 - Bolsters/Tough Skin.md",
-    "!KSSR/Soft Rains/3 - List of Descriptors/3.2 - Bolsters/Tundra Dweller.md",
-    "!KSSR/Soft Rains/3 - List of Descriptors/3.2 - Bolsters/Slippery.md",
-    "!KSSR/Soft Rains/3 - List of Descriptors/3.2 - Bolsters/Steel Will.md",
     "!KSSR/Z Imagery/Diagrams/Flank Directions Diagram.png",
     "!KSSR/Z Imagery/Diagrams/Unreachable Person Flank Diagram.png",
     "!KSSR/Z Imagery/Diagrams/Third Person Flank Diagram.png",
