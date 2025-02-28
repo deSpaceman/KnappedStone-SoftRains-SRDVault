@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old_files/Acknowledgements and Dedication.md",
+                "file": "!KSSR/Knapped Stone/1 - Introduction/1.1 - The Basics/1.1.1 - What is a Tabletop RPG.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Acknowledgements and Dedication"
+              "title": "1.1.1 - What is a Tabletop RPG"
             }
           }
         ],
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old_files/Acknowledgements and Dedication.md",
+                "file": "!KSSR/Knapped Stone/1 - Introduction/1.1 - The Basics/1.1.1 - What is a Tabletop RPG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Acknowledgements and Dedication"
+              "title": "Backlinks for 1.1.1 - What is a Tabletop RPG"
             }
           },
           {
@@ -275,10 +275,10 @@
   },
   "active": "9e6bae680535e7b8",
   "lastOpenFiles": [
+    "old_files/Acknowledgements and Dedication.md",
     "!KSSR/Knapped Stone/0 - Pre-Summary/A Foreword.md",
     "Novo(a) Documento de Texto.txt",
     "old_files/SRD and Liscencing.md",
-    "old_files/Acknowledgements and Dedication.md",
     "!KSSR/Knapped Stone/5 - Combat/5.6 - Death and Disaster/5.6.1 - Hitting 0 HP.md",
     "!KSSR/Knapped Stone/3 - Equipment and Objects/3.3 - Equipment/3.3.4 - Armor.md",
     "!KSSR/Knapped Stone/3 - Equipment and Objects/3.3 - Equipment/3.3.3 - Tools.md",

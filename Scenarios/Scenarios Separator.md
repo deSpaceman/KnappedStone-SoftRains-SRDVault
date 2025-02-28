@@ -1,1 +1,0 @@
-[[Beastiary]] [[scenarios/Minecraft Scenario/Creature Keywords|Creature Keywords]] [[scenarios/Hyperpulse/Creatures/Creature Keywords|Creature Keywords]] [[Items]] [[Creatures]] [[Peoples S&T]] [[Trades]] [[Patrons]] [[Conditions]] [[Scenarios README]]
