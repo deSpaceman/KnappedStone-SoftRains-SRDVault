@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!KSSR/Knapped Stone/1 - Introduction/1.1 - The Basics/1.1.1 - What is a Tabletop RPG.md",
+                "file": "!KSSR/Knapped Stone/1 - Introduction/1.2 - The Table/1.2.2 - Sessions and Campaigns.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1.1.1 - What is a Tabletop RPG"
+              "title": "1.2.2 - Sessions and Campaigns"
             }
           }
         ],
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!KSSR/Knapped Stone/1 - Introduction/1.1 - The Basics/1.1.1 - What is a Tabletop RPG.md",
+                "file": "!KSSR/Knapped Stone/1 - Introduction/1.2 - The Table/1.2.2 - Sessions and Campaigns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.1.1 - What is a Tabletop RPG"
+              "title": "Backlinks for 1.2.2 - Sessions and Campaigns"
             }
           },
           {
@@ -273,8 +273,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e6bae680535e7b8",
+  "active": "c7e3321e92cf15fe",
   "lastOpenFiles": [
+    "!KSSR/Knapped Stone/1 - Introduction/1.1 - The Basics/1.1.1 - What is a Tabletop RPG.md",
     "old_files/Acknowledgements and Dedication.md",
     "!KSSR/Knapped Stone/0 - Pre-Summary/A Foreword.md",
     "Novo(a) Documento de Texto.txt",
@@ -301,7 +302,6 @@
     "!KSSR/Knapped Stone/2 - Character Creation/2.4 - Manipulate Attributes/2.4.3 - Gaining Attributes during the Game.md",
     "!KSSR/Knapped Stone/2 - Character Creation/2.4 - Manipulate Attributes/2.4.2 - Attribute Shifting and Trading.md",
     "!KSSR/Soft Rains/5 - Examples/5.2 - Example Spells/Example Arcane Spells/!List of Arcane Spells.md",
-    "!KSSR/Soft Rains/3 - List of Descriptors/3.2 - Bolsters/Bright Mind.md",
     "!KSSR/Z Imagery/Diagrams/Flank Directions Diagram.png",
     "!KSSR/Z Imagery/Diagrams/Unreachable Person Flank Diagram.png",
     "!KSSR/Z Imagery/Diagrams/Third Person Flank Diagram.png",
